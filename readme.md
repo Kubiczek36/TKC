@@ -1,6 +1,6 @@
 # Projekt dalekohledu pro předmět TKC
 
-Dalekohled se bode skládat z objektivu, ostřícího členu a okuláru s určením pro pozemní pozorování. Jako převracecí mechanismus bude použita dvojce čoček.
+Dalekohled se bode skládat z objektivu, ostřícího členu a okuláru s určením pro pozemní pozorování. Jako převracecí mechanismus bude použito zrcátko.
 
 #### Objektiv
 
