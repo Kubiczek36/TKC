@@ -1,6 +1,6 @@
 # Projekt dalekohledu pro předmět TKC
 
-Dalekohled se bode skládat z objektivu, ostřícího členu a okuláru s určením pro pozemní pozorování. Jako převracecí mechanismus bude použito zrcátko.
+Dalekohled se bode skládat z objektivu a okuláru s určením pro pozemní pozorování. Jako převracecí mechanismus bude použito zrcátko.
 
 [Stránky Meopty](https://eshop.meopta.cz/spektivy/) s inspirací.
 
@@ -35,8 +35,8 @@ __Možnosti__
 
 [Vyhledávání v Edmundu s výsledky pro objektiv](https://www.edmundoptics.com/c/achromatic-lenses/652/#29374=29374_s%3ANS4wMCAtIDUuOTk1&29374=29374_s%3ANC4wMCAtIDQuOTk1&27560=27560_s%3AVklTIDAmZGVnOyAoNDI1LTY3NW5tKQ2&27560=27560_s%3AVklTLU5JUiAoNDAwLTEwMDBubSk1&27560=27560_s%3ATWdGPHN1Yj4yPC9zdWI-ICg0MDAtNzAwbm0p0&27560=27560_s%3ATWdGPHN1Yj4yPC9zdWI-ICg0MDAtNzAwbm0p0&27560=27560_s%3AVklTIDAmZGVnOyAoNDI1LTY3NW5tKQ2&27560=27560_s%3AVklTLU5JUiAoNDAwLTEwMDBubSk1&27560=27560_s%3AVVYtVklTICgzNDUtNzAwbm0p0&27614=27614_d%3A%5B59.18%20TO%2089.47%5D). 
 
-- [kandidát na objektiv](https://www.edmundoptics.com/p/75mm-dia-x-300mm-fl-vis-nir-coated-achromatic-lens/30852/)
-- [náhradník na objektiv](https://www.edmundoptics.com/p/635mm-dia-x-3549mm-fl-achromatic-lens/2017/)
+- [kandidát na objektiv](https://www.edmundoptics.com/p/75mm-dia-x-400mm-fl-vis-0deg-coated-achromatic-lens/30848/) f' = 400 mm, prum. 75 mm (f# 5,3) 300 €
+- [náhradník na objektiv](https://www.edmundoptics.com/p/75mm-dia-x-300mm-fl-vis-nir-coated-achromatic-lens/30852/)
 
 ### Okulár
 
@@ -55,7 +55,7 @@ Dále je v nabídce dublet s ohniskem 10 mm následné zv. 50 x.
 > __Možný plán:__ navrhnout vícero okulárů s různými zvětšeními. Prvotním cílem bude zvětšení 20-30x
 
 ----
-__staré__
+__!! staré !!__
 
 - [kandidát na okulár](https://www.edmundoptics.com/p/25mm-dia-x-40mm-fl-mgfsub2sub-coated-achromatic-doublet-lens/2285/)
 
