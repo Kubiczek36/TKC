@@ -12,7 +12,15 @@ Konstrukce je inspirována spektivem [Meopta MeoStar S2](https://eshop.meopta.cz
 
 Jako objektiv bude sloužit achromatický dublet. Například firma Edmund Optics [nabízí](https://www.edmundoptics.com/c/achromatic-lenses/652/#29374=29374_s%3ANS4wMCAtIDUuOTk1&29374=29374_s%3ANC4wMCAtIDQuOTk1&27560=27560_s%3AVklTIDAmZGVnOyAoNDI1LTY3NW5tKQ2&27560=27560_s%3AVklTLU5JUiAoNDAwLTEwMDBubSk1&27560=27560_s%3ATWdGPHN1Yj4yPC9zdWI-ICg0MDAtNzAwbm0p0&27560=27560_s%3ATWdGPHN1Yj4yPC9zdWI-ICg0MDAtNzAwbm0p0&27560=27560_s%3AVklTIDAmZGVnOyAoNDI1LTY3NW5tKQ2&27560=27560_s%3AVklTLU5JUiAoNDAwLTEwMDBubSk1&27560=27560_s%3AVVYtVklTICgzNDUtNzAwbm0p0&27614=27614_d%3A%5B59.18%20TO%2089.47%5D) takové dublety, které vyhovují průměrem ohniskem. Další výhodou je knihovna dílů v programu Zemax Optics Studio.
 
-Jako okulár se jeví vhodné použít Kellnerův nebo širokoúhlý okulár [[1](#lit)].
+Jako okulár se jeví vhodné použít Kellnerův nebo Širokoúhlý okulár [[1](#lit)].<!-- Odkaz fuguje! --> Schéma okulárů lze vidět na obrázcích [[1,2](#lit)].
+
+![BW okulary](imgs/bw_okulary_schemata.jpg) 
+![Mikroskopové okuláry FH](imgs/fh_dalekohledove_ok.jpeg)
+(c-d) Širokoúhlé okuláry.
+![Mikroskopové okuláry FH](imgs/fh_mikroskopove_okulary.jpeg)
+(c) Kellnerův okulár.
+
+Pokud bude cílem dosáhnout zvětšení zhruba 20x, pak očekávané ohnisková délka okuláru je 20 mm.
 
 ## Výběr komponent
 
