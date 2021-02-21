@@ -16,8 +16,11 @@ Jako okulár se jeví vhodné použít Kellnerův nebo Širokoúhlý okulár [[1
 
 ![BW okulary](imgs/bw_okulary_schemata.jpg) 
 ![Mikroskopové okuláry FH](imgs/fh_dalekohledove_ok.jpeg)
+
 (c-d) Širokoúhlé okuláry.
+
 ![Mikroskopové okuláry FH](imgs/fh_mikroskopove_okulary.jpeg)
+
 (c) Kellnerův okulár.
 
 Pokud bude cílem dosáhnout zvětšení zhruba 20x, pak očekávané ohnisková délka okuláru je 20 mm.
