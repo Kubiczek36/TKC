@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"[
+	<!ENTITY E39 'stroke:none;font-size:32.47138pt;font-family:Lucida Sans Typewriter;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E63 '1046.5 2136.5 1055.5 2154.5 1046.5 2145.5 '>
+	<!ENTITY E41 '-333 -29.5 332 -28.5 -332 -28.5 '>
+	<!ENTITY E28 'clip-path:url(#LC504_SetClip);stroke:none;opacity:1;fill:rgb(255,255,255);'>
+	<!ENTITY E31 'stroke:rgb(0,0,0);clip-path:url(#LC455_SetClip);fill:none;stroke-linecap:round;opacity:1;stroke-width:1,2;stroke-linejoin:round;'>
+	<!ENTITY E22 'matrix(1 0 0 1 1734 1553.076 ) '>
+	<!ENTITY E29 'stroke:rgb(0,0,0);clip-path:url(#LC504_SetClip);fill:none;stroke-linecap:round;opacity:1;stroke-width:1,2;stroke-linejoin:round;'>
+	<!ENTITY E21 'matrix(1 0 0 1 1172 1553.076 ) '>
+	<!ENTITY E8 '1172 1502 1171 1489 1171 1475 1171 1462 1171 1449 1171 1435 1170 1422 1170 1408 1169 1395 1168 1382 1168 1368 1167 1355 1166 1342 1165 1328 1164 1315 1163 1301 1162 1288 1161 1275 1159 1261 1158 1248 1156 1235 1155 1221 1153 1208 1152 1194 1150 1181 1148 1168 1146 1154 1144 1141 1142 1128 1140 1114 1138 1101 1135 1088 1133 1074 1131 1061 1128 1047 1125 1034 1123 1021 1120 1007 1117 994 1114 981 1111 967 1108 954 1105 940 1102 927 1099 914 1095 900 1092 887 1088 874 1085 860 1081 847 1077 834 1074 820 1070 807 1066 793 1062 780 1058 767 1053 753 1049 740 1045 727 1040 713 1036 700 1031 686 1027 673 1022 660 1017 646 1012 633 1007 620 1002 606 997 593 992 579 987 566 982 553 976 539 971 526 965 513 960 499 954 486 948 473 942 459 936 446 931 432 924 419 918 406 912 392 906 379 899 366 893 352 886 339 880 325 873 312 866 299 860 285 853 272 846 259 839 245 832 232 824 218 817 205 810 192 802 178 795 165 '>
+	<!ENTITY E58 '837.5 2154.5 849.5 2132 849.5 2141 '>
+	<!ENTITY E45 'stroke:rgb(0,0,255);clip-path:url(#LC579_SetClip);fill:none;stroke-linecap:butt;stroke-width:2;opacity:1;'>
+	<!ENTITY E35 'stroke:none;font-size:50.23296pt;font-family:Lucida Sans Typewriter;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E66 'stroke:none;clip-path:url(#LC646_SetClip);font-family:Lucida Sans Typewriter;fill:rgb(0,0,0);font-size:31.7323pt;opacity:1;'>
+	<!ENTITY E64 '1055.5 2145.5 1067.5 2132 1055.5 2154.5 '>
+	<!ENTITY E69 'matrix(1 0 0 1 958.4798 2144.965 ) '>
+	<!ENTITY E77 '1246 2615.8 1823.2 2796.6 1246 2796.6 '>
+	<!ENTITY E46 'clip-path:url(#LC584_SetClip);stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E16 'clip-path:url(#LC457_SetClip);stroke:none;opacity:0;fill:rgb(255,255,255);'>
+	<!ENTITY E7 'stroke:rgb(0,255,0);clip-path:url(#LC365_SetClip);fill:none;stroke-linecap:round;opacity:1;stroke-width:2,4;stroke-linejoin:round;'>
+	<!ENTITY E20 'stroke:none;font-size:45.1217pt;font-family:Lucida Sans Typewriter;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E40 'stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E68 'stroke:none;clip-path:url(#LC650_SetClip);font-family:Lucida Sans Typewriter;fill:rgb(0,0,0);font-size:31.7323pt;opacity:1;'>
+	<!ENTITY E9 'stroke:rgb(255,0,0);clip-path:url(#LC365_SetClip);fill:none;stroke-linecap:round;opacity:1;stroke-width:2,4;stroke-linejoin:round;'>
+	<!ENTITY E12 'stroke:rgb(0,0,0);clip-path:url(#LC445_SetClip);fill:none;stroke-linecap:round;opacity:1;stroke-width:1,2;stroke-linejoin:round;'>
+	<!ENTITY E70 'stroke:none;clip-path:url(#LC654_SetClip);font-family:Lucida Sans Typewriter;fill:rgb(0,0,0);font-size:31.7323pt;opacity:1;'>
+	<!ENTITY E61 'clip-path:url(#LC626_SetClip);stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(0,128,0);'>
+	<!ENTITY E74 '20 2241 1861.2 2241 1861.2 2325 '>
+	<!ENTITY E81 '-575.4797 -28.9646 88.52026 -28.9646 88.52026 28.0354 -575.4797 28.0354 '>
+	<!ENTITY E11 'stroke:rgb(0,0,0);clip-path:url(#LC445_SetClip);fill:none;stroke-linecap:butt;stroke-width:2,4;opacity:1;'>
+	<!ENTITY E10 '1172 1502 1171 1489 1171 1475 1171 1462 1171 1449 1171 1435 1170 1422 1170 1408 1169 1395 1168 1382 1168 1368 1167 1355 1166 1342 1165 1328 1164 1315 1163 1301 1162 1288 1161 1275 1159 1261 1158 1248 1156 1235 1155 1221 1153 1208 1152 1194 1150 1181 1148 1168 1146 1154 1144 1141 1142 1128 1140 1114 1138 1101 1135 1088 1133 1074 1130 1061 1128 1047 1125 1034 1123 1021 1120 1007 1117 994 1114 981 1111 967 1108 954 1105 940 1102 927 1098 914 1095 900 1092 887 1088 874 1085 860 1081 847 1077 834 1073 820 1069 807 1065 793 1061 780 1057 767 1053 753 1049 740 1044 727 1040 713 1036 700 1031 686 1026 673 1022 660 1017 646 1012 633 1007 620 1002 606 997 593 992 579 987 566 981 553 976 539 970 526 965 513 959 499 953 486 948 473 942 459 936 446 930 432 924 419 918 406 911 392 905 379 899 366 892 352 886 339 879 325 872 312 866 299 859 285 852 272 845 259 838 245 831 232 823 218 816 205 809 192 801 178 794 165 '>
+	<!ENTITY E14 'clip-path:url(#LC445_SetClip);stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E1 'stroke:none;opacity:1;fill:rgb(255,255,255);'>
+	<!ENTITY E80 '-357.4798 -28.9646 306.5202 -28.9646 306.5202 28.0354 -357.4798 28.0354 '>
+	<!ENTITY E6 '1172 1502 1171 1489 1171 1475 1171 1462 1171 1449 1171 1435 1170 1422 1170 1408 1169 1395 1168 1382 1168 1368 1167 1355 1166 1342 1165 1328 1164 1315 1163 1301 1162 1288 1161 1275 1159 1261 1158 1248 1157 1235 1155 1221 1153 1208 1152 1194 1150 1181 1148 1168 1146 1154 1144 1141 1142 1128 1140 1114 1138 1101 1136 1088 1133 1074 1131 1061 1128 1047 1126 1034 1123 1021 1120 1007 1118 994 1115 981 1112 967 1109 954 1106 940 1102 927 1099 914 1096 900 1092 887 1089 874 1085 860 1082 847 1078 834 1074 820 1070 807 1067 793 1063 780 1058 767 1054 753 1050 740 1046 727 1041 713 1037 700 1032 686 1028 673 1023 660 1018 646 1014 633 1009 620 1004 606 999 593 994 579 988 566 983 553 978 539 972 526 967 513 961 499 956 486 950 473 944 459 938 446 932 432 926 419 920 406 914 392 908 379 902 366 895 352 889 339 882 325 876 312 869 299 862 285 855 272 848 259 841 245 834 232 827 218 820 205 813 192 805 178 798 165 '>
+	<!ENTITY E13 'clip-path:url(#LC445_SetClip);stroke:none;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E23 'stroke:none;font-size:58.68636pt;font-family:Lucida Sans Typewriter;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E4 'stroke:rgb(234,234,234);clip-path:url(#LC365_SetClip);fill:none;stroke-linecap:round;opacity:1;stroke-width:3,6;stroke-linejoin:round;'>
+	<!ENTITY E49 '610.5 2136.5 619.5 2154.5 610.5 2145.5 '>
+	<!ENTITY E24 'stroke:none;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E51 '619.5 2154.5 631.5 2132 631.5 2141 '>
+	<!ENTITY E5 'stroke:rgb(0,0,255);clip-path:url(#LC365_SetClip);fill:none;stroke-linecap:round;opacity:1;stroke-width:2,4;stroke-linejoin:round;'>
+	<!ENTITY E55 '828.5 2136.5 837.5 2145.5 837.5 2154.5 '>
+	<!ENTITY E75 '1246 2335.8 1823.2 2611 1246 2611 '>
+	<!ENTITY E25 'stroke-linecap:butt;stroke:rgb(255,255,255);stroke-width:1;opacity:1;fill:none;'>
+	<!ENTITY E32 'clip-path:url(#LC526_SetClip);stroke:none;opacity:1;fill:rgb(255,255,255);'>
+	<!ENTITY E43 '-333 -29.5 -332 -28.5 -333 29.5 '>
+	<!ENTITY E62 '1046.5 2136.5 1055.5 2145.5 1055.5 2154.5 '>
+	<!ENTITY E54 'clip-path:url(#LC605_SetClip);stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(0,128,0);'>
+	<!ENTITY E47 'clip-path:url(#LC584_SetClip);stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(0,128,0);'>
+	<!ENTITY E65 '1055.5 2154.5 1067.5 2132 1067.5 2141 '>
+	<!ENTITY E17 'stroke:none;font-size:35.09466pt;font-family:Lucida Sans Typewriter;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E33 'stroke:none;font-size:44.74572pt;font-family:Lucida Sans Typewriter;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E42 '-333 -29.5 333 -29.5 332 -28.5 '>
+	<!ENTITY E60 'clip-path:url(#LC626_SetClip);stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E72 '489.5 125.5 598.5 204.5 489.5 204.5 '>
+	<!ENTITY E76 '1246 2335.8 1823.2 2335.8 1823.2 2611 '>
+	<!ENTITY E52 'stroke:rgb(0,255,0);clip-path:url(#LC579_SetClip);fill:none;stroke-linecap:butt;stroke-width:2;opacity:1;'>
+	<!ENTITY E15 '610 165 606.8823 166.8 606.8823 163.2 '>
+	<!ENTITY E34 'clip-path:url(#LC540_SetClip);stroke:none;opacity:1;fill:rgb(255,255,255);'>
+	<!ENTITY E53 'clip-path:url(#LC605_SetClip);stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E19 'stroke:rgb(255,255,255);clip-path:url(#LC463_SetClip);fill:none;stroke-linecap:round;opacity:1;stroke-width:1;stroke-linejoin:round;'>
+	<!ENTITY E3 'stroke-linecap:butt;stroke:rgb(0,0,0);stroke-width:1;opacity:1;fill:none;'>
+	<!ENTITY E18 'clip-path:url(#LC463_SetClip);stroke:none;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E78 '1246 2615.8 1823.2 2615.8 1823.2 2796.6 '>
+	<!ENTITY E26 'stroke:none;font-size:50.13523pt;font-family:Lucida Sans Typewriter;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E59 'stroke:rgb(255,0,0);clip-path:url(#LC579_SetClip);fill:none;stroke-linecap:butt;stroke-width:2;opacity:1;'>
+	<!ENTITY E57 '837.5 2145.5 849.5 2132 837.5 2154.5 '>
+	<!ENTITY E44 '-332 -28.5 -332 28.5 -333 29.5 '>
+	<!ENTITY E27 'matrix(-4.371139E-08 -1 1 -4.371139E-08 407 834 ) '>
+	<!ENTITY E73 '489.5 125.5 598.5 125.5 598.5 204.5 '>
+	<!ENTITY E50 '619.5 2145.5 631.5 2132 619.5 2154.5 '>
+	<!ENTITY E79 '-139.4798 -28.9646 524.5202 -28.9646 524.5202 28.0354 -139.4798 28.0354 '>
+	<!ENTITY E48 '610.5 2136.5 619.5 2145.5 619.5 2154.5 '>
+	<!ENTITY E71 'matrix(1 0 0 1 1176.48 2144.965 ) '>
+	<!ENTITY E36 'clip-path:url(#LC548_SetClip);stroke:none;opacity:1;fill:rgb(255,255,255);'>
+	<!ENTITY E67 'matrix(1 0 0 1 740.4798 2144.965 ) '>
+	<!ENTITY E2 'clip-path:url(#LC365_SetClip);stroke:none;opacity:1;fill:rgb(255,255,255);'>
+	<!ENTITY E56 '828.5 2136.5 837.5 2154.5 828.5 2145.5 '>
+	<!ENTITY E30 '0 2239 1866 2239 1866 2799 0 2799 0 2239 '>
+	<!ENTITY E37 'stroke:none;font-size:30.975pt;font-family:Lucida Sans Typewriter;opacity:1;fill:rgb(0,0,0);'>
+	<!ENTITY E38 'clip-path:url(#LC558_SetClip);stroke:none;opacity:1;fill:rgb(255,255,255);'>
+]>
+<svg xmlns="http://www.w3.org/2000/svg" height="2800" width="1866" id="SvgGdi_output" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" version="1.1" contentScriptType="application/ecmascript" contentStyleType="text/css">
+  <g style="shape-rendering:crispEdges;" id="root_group">
+    <rect id="LC364" height="2801" style="&E1;" width="1867" y="-1" x="-1" />
+    <rect id="LC367" height="1340" style="&E2;" width="1124" y="164" x="610" />
+    <line y1="164" style="&E3;" id="LC368" x2="1733" y2="164" x1="610" />
+    <line y1="1503" style="&E3;" id="LC369" x2="1733" y2="1503" x1="610" />
+    <line y1="164" style="&E3;" id="LC370" x2="610" y2="1503" x1="610" />
+    <line y1="164" style="&E3;" id="LC371" x2="1733" y2="1503" x1="1733" />
+    <line y1="1502" style="&E4;" id="LC398" x2="610" y2="165" x1="610" />
+    <line y1="1502" style="&E4;" id="LC399" x2="722" y2="165" x1="722" />
+    <line y1="1502" style="&E4;" id="LC400" x2="835" y2="165" x1="835" />
+    <line y1="1502" style="&E4;" id="LC401" x2="947" y2="165" x1="947" />
+    <line y1="1502" style="&E4;" id="LC402" x2="1060" y2="165" x1="1060" />
+    <line y1="1502" style="&E4;" id="LC403" x2="1172" y2="165" x1="1172" />
+    <line y1="1502" style="&E4;" id="LC404" x2="1284" y2="165" x1="1284" />
+    <line y1="1502" style="&E4;" id="LC405" x2="1397" y2="165" x1="1397" />
+    <line y1="1502" style="&E4;" id="LC406" x2="1509" y2="165" x1="1509" />
+    <line y1="1502" style="&E4;" id="LC407" x2="1622" y2="165" x1="1622" />
+    <line y1="1502" style="&E4;" id="LC408" x2="1734" y2="165" x1="1734" />
+    <line y1="1502" style="&E4;" id="LC409" x2="1734" y2="1502" x1="610" />
+    <line y1="1324" style="&E4;" id="LC410" x2="1734" y2="1324" x1="610" />
+    <line y1="1145" style="&E4;" id="LC411" x2="1734" y2="1145" x1="610" />
+    <line y1="967" style="&E4;" id="LC412" x2="1734" y2="967" x1="610" />
+    <line y1="789" style="&E4;" id="LC413" x2="1734" y2="789" x1="610" />
+    <line y1="611" style="&E4;" id="LC414" x2="1734" y2="611" x1="610" />
+    <line y1="432" style="&E4;" id="LC415" x2="1734" y2="432" x1="610" />
+    <line y1="254" style="&E4;" id="LC416" x2="1734" y2="254" x1="610" />
+    <line y1="76" style="&E4;" id="LC417" x2="1734" y2="76" x1="610" />
+    <line y1="-102" style="&E4;" id="LC418" x2="1734" y2="-102" x1="610" />
+    <line y1="-281" style="&E4;" id="LC419" x2="1734" y2="-281" x1="610" />
+    <polyline style="&E5;" points="&E6;" id="LC428" />
+    <polyline style="&E7;" points="&E8;" id="LC433" />
+    <polyline style="&E9;" points="&E10;" id="LC438" />
+    <line y1="164" style="&E11;" id="LC449" x2="1172.2" y2="1503" x1="1172.2" />
+    <polyline style="&E12;" points="544 165.0001 606.8823 165 " id="LC452" />
+    <ellipse id="LC453" cy="165" cx="544" rx="1.8" ry="1.8" style="&E13;" />
+    <polygon style="&E14;" points="&E15;" id="LC454" />
+    <rect id="LC460" height="79" style="&E16;" width="109" y="125.5" x="489.5" />
+    <text id="LC461" style="&E17;" transform="matrix(1 0 0 1 544 165 ) " x="-42" y="16.41136">1,5</text>
+    <rect id="LC467" height="3.599976" style="&E18;" width="1124" y="1503" x="610" />
+    <line y1="1503.5" style="&E19;" id="LC468" x2="610" y2="1513.5" x1="610" />
+    <line y1="1503.5" style="&E19;" id="LC469" x2="722" y2="1513.5" x1="722" />
+    <line y1="1503.5" style="&E19;" id="LC470" x2="835" y2="1513.5" x1="835" />
+    <line y1="1503.5" style="&E19;" id="LC471" x2="947" y2="1513.5" x1="947" />
+    <line y1="1503.5" style="&E19;" id="LC472" x2="1060" y2="1513.5" x1="1060" />
+    <line y1="1503.5" style="&E19;" id="LC473" x2="1172" y2="1513.5" x1="1172" />
+    <line y1="1503.5" style="&E19;" id="LC474" x2="1284" y2="1513.5" x1="1284" />
+    <line y1="1503.5" style="&E19;" id="LC475" x2="1397" y2="1513.5" x1="1397" />
+    <line y1="1503.5" style="&E19;" id="LC476" x2="1509" y2="1513.5" x1="1509" />
+    <line y1="1503.5" style="&E19;" id="LC477" x2="1622" y2="1513.5" x1="1622" />
+    <line y1="1503.5" style="&E19;" id="LC478" x2="1734" y2="1513.5" x1="1734" />
+    <text id="LC479" style="&E20;" transform="matrix(1 0 0 1 610 1553.076 ) " x="-126.8754" y="21.73832">-2,0e-3</text>
+    <text id="LC481" style="&E20;" transform="&E21;" x="-18.12506" y="21.73832">0</text>
+    <text id="LC483" style="&E20;" transform="&E22;" x="-108.7503" y="21.73832">2,0e-3</text>
+    <text id="LC485" style="&E23;" transform="matrix(1 0 0 1 1172 1682.32 ) " x="-165.0172" y="28.27337">Percent</text>
+    <rect id="LC487" height="1338" style="&E24;" width="3.599976" y="164.5" x="607" />
+    <line y1="1502" style="&E25;" id="LC488" x2="610" y2="1502" x1="600" />
+    <line y1="1323.733" style="&E25;" id="LC489" x2="610" y2="1323.733" x1="600" />
+    <line y1="1145.467" style="&E25;" id="LC490" x2="610" y2="1145.467" x1="600" />
+    <line y1="967.2" style="&E25;" id="LC491" x2="610" y2="967.2" x1="600" />
+    <line y1="788.9333" style="&E25;" id="LC492" x2="610" y2="788.9333" x1="600" />
+    <line y1="610.6667" style="&E25;" id="LC493" x2="610" y2="610.6667" x1="600" />
+    <line y1="432.4" style="&E25;" id="LC494" x2="610" y2="432.4" x1="600" />
+    <line y1="254.1333" style="&E25;" id="LC495" x2="610" y2="254.1333" x1="600" />
+    <text id="LC496" style="&E26;" transform="matrix(1 0 0 1 574.861 1502 ) " x="-20.13895" y="24.15369">0</text>
+    <text id="LC498" style="&E26;" transform="matrix(1 0 0 1 534.5831 611 ) " x="-60.41686" y="24.15369">1,0</text>
+    <text id="LC500" style="&E23;" transform="&E27;" x="0" y="72.5938">
+    </text>
+    <rect id="LC507" height="560" style="&E28;" width="1866" y="2239" x="0" />
+    <polyline style="&E29;" points="&E30;" id="LC508" />
+    <polyline style="&E31;" points="0 2331 1866 2331 " id="LC511" />
+    <polyline style="&E31;" points="1244 2331 1244 2799 " id="LC516" />
+    <polyline style="&E31;" points="1244 2611 1866 2611 " id="LC521" />
+    <rect id="LC529" height="460.8" style="&E32;" width="1168" y="2334.6" x="56" />
+    <text id="LC530" style="&E33;" transform="matrix(1 0 0 1 145.5 2368.5 ) " x="-90" y="21.34951">54567</text>
+    <text id="LC532" style="&E33;" transform="matrix(1 0 0 1 235.5 2435.5 ) " x="-180" y="21.34951">09.03.2021</text>
+    <text id="LC534" style="&E33;" transform="matrix(1 0 0 1 613 2502.5 ) " x="-557" y="21.34951">Maximum Field is 1,500 Degrees.</text>
+    <text id="LC536" style="&E33;" transform="matrix(1 0 0 1 559 2569.5 ) " x="-503" y="21.34951">Maximum distortion = 0,0013%</text>
+    <rect id="LC543" height="84" style="&E34;" width="1841.2" y="2241" x="19.40002" />
+    <text id="LC544" style="&E35;" transform="matrix(1 0 0 1 941 2283 ) " x="-484" y="24.13712"> F-Tan(Theta) Distortion</text>
+    <rect id="LC551" height="275.2" style="&E36;" width="577.2001" y="2335.2" x="1245.4" />
+    <text id="LC552" style="&E37;" transform="matrix(1 0 0 1 1535 2359 ) " x="-62" y="15.31542">Zemax</text>
+    <text id="LC554" style="&E37;" transform="matrix(1 0 0 1 1535 2405 ) " x="-311" y="15.31542">Zemax OpticStudio 21.1   </text>
+    <rect id="LC561" height="180.8" style="&E38;" width="577.2001" y="2615.4" x="1245.4" />
+    <text id="LC562" style="&E39;" transform="matrix(1 0 0 1 1535 2640.5 ) " x="-274" y="15.16641">dalekohled_okular.ZMX</text>
+    <text id="LC564" style="&E39;" transform="matrix(1 0 0 1 1535 2689.5 ) " x="-261" y="15.16641">Configuration 1 of 1</text>
+    <rect id="LC566" height="59" style="&E1;" width="666" y="2115" x="600" />
+    <polygon transform="matrix(1 0 0 1 933 2144.5 ) " style="&E40;" points="&E41;" id="LC567" />
+    <polygon transform="matrix(1 0 0 1 933 2144.5 ) " style="&E40;" points="&E42;" id="LC568" />
+    <polygon transform="matrix(1 0 0 1 933 2144.5 ) " style="&E40;" points="332 -28.5 333 -29.5 332 28.5 " id="LC569" />
+    <polygon transform="matrix(1 0 0 1 933 2144.5 ) " style="&E40;" points="333 -29.5 333 29.5 332 28.5 " id="LC570" />
+    <polygon transform="matrix(1 0 0 1 933 2144.5 ) " style="&E40;" points="333 29.5 -332 28.5 332 28.5 " id="LC571" />
+    <polygon transform="matrix(1 0 0 1 933 2144.5 ) " style="&E40;" points="333 29.5 -333 29.5 -332 28.5 " id="LC572" />
+    <polygon transform="matrix(1 0 0 1 933 2144.5 ) " style="&E40;" points="&E43;" id="LC573" />
+    <polygon transform="matrix(1 0 0 1 933 2144.5 ) " style="&E40;" points="&E44;" id="LC574" />
+    <polyline style="&E45;" points="640 2144 660 2144 " id="LC581" />
+    <polygon style="&E46;" points="606 2129 636 2132 606 2132 " id="LC586" />
+    <polygon style="&E46;" points="636 2129 636 2132 606 2129 " id="LC587" />
+    <polygon style="&E46;" points="606 2156 636 2159 606 2159 " id="LC588" />
+    <polygon style="&E46;" points="636 2156 636 2159 606 2156 " id="LC589" />
+    <polygon style="&E46;" points="606 2132 609 2132 606 2156 " id="LC590" />
+    <polygon style="&E46;" points="609 2132 609 2156 606 2156 " id="LC591" />
+    <polygon style="&E46;" points="633 2132 636 2132 633 2156 " id="LC592" />
+    <polygon style="&E46;" points="636 2132 636 2156 633 2156 " id="LC593" />
+    <polygon style="&E47;" points="&E48;" id="LC594" />
+    <polygon style="&E47;" points="&E49;" id="LC595" />
+    <polygon style="&E47;" points="&E50;" id="LC596" />
+    <polygon style="&E47;" points="&E51;" id="LC597" />
+    <polyline style="&E52;" points="858 2144 878 2144 " id="LC602" />
+    <polygon style="&E53;" points="824 2129 854 2132 824 2132 " id="LC607" />
+    <polygon style="&E53;" points="854 2129 854 2132 824 2129 " id="LC608" />
+    <polygon style="&E53;" points="824 2156 854 2159 824 2159 " id="LC609" />
+    <polygon style="&E53;" points="854 2156 854 2159 824 2156 " id="LC610" />
+    <polygon style="&E53;" points="824 2132 827 2132 824 2156 " id="LC611" />
+    <polygon style="&E53;" points="827 2132 827 2156 824 2156 " id="LC612" />
+    <polygon style="&E53;" points="851 2132 854 2132 851 2156 " id="LC613" />
+    <polygon style="&E53;" points="854 2132 854 2156 851 2156 " id="LC614" />
+    <polygon style="&E54;" points="&E55;" id="LC615" />
+    <polygon style="&E54;" points="&E56;" id="LC616" />
+    <polygon style="&E54;" points="&E57;" id="LC617" />
+    <polygon style="&E54;" points="&E58;" id="LC618" />
+    <polyline style="&E59;" points="1076 2144 1096 2144 " id="LC623" />
+    <polygon style="&E60;" points="1042 2129 1072 2132 1042 2132 " id="LC628" />
+    <polygon style="&E60;" points="1072 2129 1072 2132 1042 2129 " id="LC629" />
+    <polygon style="&E60;" points="1042 2156 1072 2159 1042 2159 " id="LC630" />
+    <polygon style="&E60;" points="1072 2156 1072 2159 1042 2156 " id="LC631" />
+    <polygon style="&E60;" points="1042 2132 1045 2132 1042 2156 " id="LC632" />
+    <polygon style="&E60;" points="1045 2132 1045 2156 1042 2156 " id="LC633" />
+    <polygon style="&E60;" points="1069 2132 1072 2132 1069 2156 " id="LC634" />
+    <polygon style="&E60;" points="1072 2132 1072 2156 1069 2156 " id="LC635" />
+    <polygon style="&E61;" points="&E62;" id="LC636" />
+    <polygon style="&E61;" points="&E63;" id="LC637" />
+    <polygon style="&E61;" points="&E64;" id="LC638" />
+    <polygon style="&E61;" points="&E65;" id="LC639" />
+    <text id="LC644" style="&E66;" transform="&E67;" x="-76.47978" y="15.28769">0,4861</text>
+    <text id="LC648" style="&E68;" transform="&E69;" x="-76.47978" y="15.28769">0,5876</text>
+    <text id="LC652" style="&E70;" transform="&E71;" x="-76.47978" y="15.28769">0,6563</text>
+  </g>
+  <defs id="clips_hatches_and_gradients">
+    <clipPath id="LC365_SetClip">
+      <rect x="610" y="164" width="1124" height="1340" id="LC366" />
+    </clipPath>
+    <clipPath id="LC372_SetClip">
+      <rect x="611" y="165" width="1122" height="1338" id="LC373" />
+    </clipPath>
+    <clipPath id="LC445_SetClip">
+      <rect x="610" y="0" width="1124" height="2800" id="LC446" />
+    </clipPath>
+    <clipPath id="LC455_SetClip">
+      <rect x="0" y="0" width="1866" height="2800" id="LC456" />
+    </clipPath>
+    <clipPath clip-path="url(#LC455_SetClip)" id="LC457_SetClip">
+      <polygon points="&E72;" id="LC458" />
+      <polygon points="&E73;" id="LC459" />
+    </clipPath>
+    <clipPath clip-path="url(#LC502_SetClip)" id="LC504_SetClip">
+      <polygon points="0 2239 1866 2799 0 2799 " id="LC505" />
+      <polygon points="0 2239 1866 2239 1866 2799 " id="LC506" />
+    </clipPath>
+    <clipPath clip-path="url(#LC524_SetClip)" id="LC526_SetClip">
+      <polygon points="56 2335 1224 2795.8 56 2795.8 " id="LC527" />
+      <polygon points="56 2335 1224 2335 1224 2795.8 " id="LC528" />
+    </clipPath>
+    <clipPath clip-path="url(#LC538_SetClip)" id="LC540_SetClip">
+      <polygon points="20 2241 1861.2 2325 20 2325 " id="LC541" />
+      <polygon points="&E74;" id="LC542" />
+    </clipPath>
+    <clipPath clip-path="url(#LC546_SetClip)" id="LC548_SetClip">
+      <polygon points="&E75;" id="LC549" />
+      <polygon points="&E76;" id="LC550" />
+    </clipPath>
+    <clipPath clip-path="url(#LC556_SetClip)" id="LC558_SetClip">
+      <polygon points="&E77;" id="LC559" />
+      <polygon points="&E78;" id="LC560" />
+    </clipPath>
+    <clipPath id="LC575_SetClip">
+      <rect x="600" y="2115" width="666" height="59" id="LC576" />
+    </clipPath>
+    <clipPath id="LC579_SetClip">
+      <rect x="601" y="2116" width="664" height="57" id="LC580" />
+    </clipPath>
+    <clipPath id="LC584_SetClip">
+      <rect x="606" y="2129" width="30" height="30" id="LC585" />
+    </clipPath>
+    <clipPath id="LC605_SetClip">
+      <rect x="824" y="2129" width="30" height="30" id="LC606" />
+    </clipPath>
+    <clipPath id="LC626_SetClip">
+      <rect x="1042" y="2129" width="30" height="30" id="LC627" />
+    </clipPath>
+    <clipPath id="LC646_SetClip">
+      <polygon points="&E79;" id="LC647" />
+    </clipPath>
+    <clipPath id="LC650_SetClip">
+      <polygon points="&E80;" id="LC651" />
+    </clipPath>
+    <clipPath id="LC654_SetClip">
+      <polygon points="&E81;" id="LC655" />
+    </clipPath>
+  </defs>
+</svg>

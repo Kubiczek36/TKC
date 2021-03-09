@@ -12,24 +12,28 @@ Konstrukce je inspirována spektivem [Meopta MeoStar S2](https://eshop.meopta.cz
 
 Jako objektiv bude sloužit achromatický dublet. Například firma Edmund Optics [nabízí](https://www.edmundoptics.com/c/achromatic-lenses/652/#29374=29374_s%3ANS4wMCAtIDUuOTk1&29374=29374_s%3ANC4wMCAtIDQuOTk1&27560=27560_s%3AVklTIDAmZGVnOyAoNDI1LTY3NW5tKQ2&27560=27560_s%3AVklTLU5JUiAoNDAwLTEwMDBubSk1&27560=27560_s%3ATWdGPHN1Yj4yPC9zdWI-ICg0MDAtNzAwbm0p0&27560=27560_s%3ATWdGPHN1Yj4yPC9zdWI-ICg0MDAtNzAwbm0p0&27560=27560_s%3AVklTIDAmZGVnOyAoNDI1LTY3NW5tKQ2&27560=27560_s%3AVklTLU5JUiAoNDAwLTEwMDBubSk1&27560=27560_s%3AVVYtVklTICgzNDUtNzAwbm0p0&27614=27614_d%3A%5B59.18%20TO%2089.47%5D) takové dublety, které vyhovují průměrem ohniskem. Další výhodou je knihovna dílů v programu Zemax Optics Studio.
 
-Jako okulár se jeví vhodné použít Kellnerův nebo Širokoúhlý okulár [[1](#lit)].<!-- Odkaz fuguje! --> Schéma okulárů lze vidět na obrázcích [[1,2](#lit)].
+Jako okulár se jeví vhodné použít [okulár 20-60x od společnosti Meopta](https://eshop.meopta.cz/spektivy-meostar-s1/okular-20-60x/), navíc spektiv MeoStar S1 má ohniskovou vzdálenost objektivu podobnou námi zvlené vzdálenosti (f' = 329 mm). Díky tomu, že okulár umožňuje zoomovat není zapotřebí měnit okuláry, což umožní redukovat množství prachu, které si při výměně do tubusu dostane.
 
-![BW okulary](imgs/bw_okulary_schemata.jpg) 
-![Mikroskopové okuláry FH](imgs/fh_dalekohledove_ok.jpeg)
 
-(c-d) Širokoúhlé okuláry.
-
-![Mikroskopové okuláry FH](imgs/fh_mikroskopove_okulary.jpeg)
-
-(c) Kellnerův okulár.
-
-Pokud bude cílem dosáhnout zvětšení zhruba 20x, pak očekávané ohnisková délka okuláru je 20 mm. Pro zvětšení 30x je zapotřebí 13,3 mm.
-
-> Zorné pole 3°?
-
-## Výběr komponent
+## Výběr komponent a simulace v programu Zemax
 
 ### Objektiv
+
+Z nabídky [vhodných achromatických dubletů](https://www.edmundoptics.com/c/achromatic-lenses/652/#29374=29374_s%3ANS4wMCAtIDUuOTk1&29374=29374_s%3ANC4wMCAtIDQuOTk1&27560=27560_s%3AVklTIDAmZGVnOyAoNDI1LTY3NW5tKQ2&27560=27560_s%3AVklTLU5JUiAoNDAwLTEwMDBubSk1&27560=27560_s%3ATWdGPHN1Yj4yPC9zdWI-ICg0MDAtNzAwbm0p0&27560=27560_s%3ATWdGPHN1Yj4yPC9zdWI-ICg0MDAtNzAwbm0p0&27560=27560_s%3AVklTIDAmZGVnOyAoNDI1LTY3NW5tKQ2&27560=27560_s%3AVklTLU5JUiAoNDAwLTEwMDBubSk1&27560=27560_s%3AVVYtVklTICgzNDUtNzAwbm0p0&27614=27614_d%3A%5B59.18%20TO%2089.47%5D)) firmy Edumnd Optics byl vybrát [dublet](https://www.edmundoptics.com/p/75mm-dia-x-400mm-fl-vis-0deg-coated-achromatic-lens/30848/) s ohniskovou vzdáleností 400 mm a průměru 75 mm s vrstvou propouštející viditelné vlnové délky (400 - 700 nm).
+
+Jelikož je dalekohled určen pro pozemní pozorování, tak je zapotřebí použít jako kameru vhodný fotoaparát. Samotný dublet nemusí mít velké zorné pole, proto stačí použít fotoaparát s čipem micro 4/3, například [Panasonic Lumix GHS5](https://www.fotoskoda.cz/panasonic-lumix-dc-gh5s/). Rozměry čipu 17,3 na 13 mm znemenají, že nejvzdálenější objekt od osy bude 10,8 mm. 
+
+> podle wiki _flange focal distance of 19.25mm_
+
+Při simulaci je zapotřebí počítat se závitovým kroužkem upínajícím objektiv do objímky, proto byla zvolena apertura o průměru 73 mm. Při simulaci bylo simulováno zobrazení osového předmětu a dále předmětů vzdálených 1° a 1,5° od osy pro pokrytí celého čipu. 
+
+![spot dubletu](imgs/spotDiagram_dublet.png)
+
+Ze spot diagramu lze vidět, že pokud chceme získat kvalitní obraz předmětu umístěného uprostřed zorného pole stačí velikost pixelu okolo 10 μm. 
+
+------------------
+__!! staré !!__
+-----------------
 
 __Možnosti__
 
@@ -54,8 +58,6 @@ Dále je v nabídce dublet s ohniskem 10 mm následné zv. 50 x.
 
 > __Možný plán:__ navrhnout vícero okulárů s různými zvětšeními. Prvotním cílem bude zvětšení 20-30x
 
-----
-__!! staré !!__
 
 - [kandidát na okulár](https://www.edmundoptics.com/p/25mm-dia-x-40mm-fl-mgfsub2sub-coated-achromatic-doublet-lens/2285/)
 
