@@ -27,9 +27,11 @@ Jelikož je dalekohled určen pro pozemní pozorování, tak je zapotřebí pou�
 
 Při simulaci je zapotřebí počítat se závitovým kroužkem upínajícím objektiv do objímky, proto byla zvolena apertura o průměru 73 mm. Při simulaci bylo simulováno zobrazení osového předmětu a dále předmětů vzdálených 1° a 1,5° od osy pro pokrytí celého čipu. 
 
-![spot dubletu](imgs/spotDiagram_dublet.png)
+![spot dubletu](imgs/SpotDiagram_dublet.png)
 
 Ze spot diagramu lze vidět, že pokud chceme získat kvalitní obraz předmětu umístěného uprostřed zorného pole stačí velikost pixelu okolo 10 μm. 
+
+![MTF](imgs/FFTMTFvsField_dublet.png)
 
 ------------------
 __!! staré !!__
