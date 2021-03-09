@@ -29,9 +29,20 @@ Při simulaci je zapotřebí počítat se závitovým kroužkem upínajícím ob
 
 ![spot dubletu](imgs/SpotDiagram_dublet.png)
 
-Ze spot diagramu lze vidět, že pokud chceme získat kvalitní obraz předmětu umístěného uprostřed zorného pole stačí velikost pixelu okolo 10 μm. 
+Ze spot diagramu lze vidět, že pokud chceme získat kvalitní obraz předmětu umístěného uprostřed zorného pole stačí velikost pixelu okolo 10 μm. To lze ostatně taktéž vidět na závislosti funkce přenosu kontrastu (MTF - Modulated Transfer Funkction) na zorném poli. O clonách pro odstínění parazitních paprsků bude pojednáno později.
 
 ![MTF](imgs/FFTMTFvsField_dublet.png)
+
+### Okulár a pozorování okem. 
+
+Pro převrácení obrazu bylo jako převracecí mechanizmus vybráno zenitové zrcátko. Okulár má ohniskovou vzdálenost 16,2 až 5,55 mm a pro použitý objektiv s ohninskem 400 mm získáváme zorné pole od 1,48° do 0,74° (velikost předmětu v polní rovnině od 5,17 mm do 2,584 mm). Při návrhu mechanické části je počítáno, že ohnisková rovina se nachází v rovině vstupní pupily. Schéma lze vidět na následujícím obrázku.
+
+![schema dalekohledu](imgs/schema.png)
+
+Poloha okuláru je volena tak, aby okulár zobrazoval polní rovinu do konvenční zrakové vzdálenosti 250 mm. V této rovině vzniko55
+
+
+> odhadem vstupní pupila průměr 40,5
 
 ------------------
 __!! staré !!__
