@@ -35,14 +35,36 @@ Ze spot diagramu lze vidět, že pokud chceme získat kvalitní obraz předmětu
 
 ### Okulár a pozorování okem. 
 
+Při pozorování okem poskytuje samotný objektiv zorné pola max 2,4° Při použití většího zorného pole, je zklenutí pole větší jak podélná sférická vada.
+
+![podelna otv vada](imgs/LongitudinalAberration_dudlet.png)
+![podelna otv vada](imgs/FieldCurvDist_dublet.png)
+
 Pro převrácení obrazu bylo jako převracecí mechanizmus vybráno zenitové zrcátko. Okulár má ohniskovou vzdálenost 16,2 až 5,55 mm a pro použitý objektiv s ohninskem 400 mm získáváme zorné pole od 1,48° do 0,74° (velikost předmětu v polní rovnině od 5,17 mm do 2,584 mm). Při návrhu mechanické části je počítáno, že ohnisková rovina se nachází v rovině vstupní pupily. Schéma lze vidět na následujícím obrázku.
 
 ![schema dalekohledu](imgs/schema.png)
 
-Poloha okuláru je volena tak, aby okulár zobrazoval polní rovinu do konvenční zrakové vzdálenosti 250 mm. V této rovině vzniko55
+Poloha okuláru je volena tak, aby okulár zobrazoval polní rovinu do konvenční zrakové vzdálenosti 250 mm. Při použití delšího ohniska okuláru (16,2 mm) vzniknou v této rovně stopy velké zhruba 300 μm.
+![spot 16 mm](imgs/SpotDiagram_oko_16mm.png)
+
+Funkce přenosu kontrastu bude vypadat následujícně.
+
+![MTF 16 mm](imgs/FFTMTF.svg)
+
+Při použití nejkratšího ohniska okuláru 5,17 mm se vlivem vinětace omezí zorné pole na zhruba 0,4°.
+
+![vinětace systému](imgs/VignettingDiagram_5mm.png)
+
+V této rovině vznikají stopy velké zhruba 300 μm.
 
 
 > odhadem vstupní pupila průměr 40,5
+
+> [trubka](https://www.ehlinik.cz/hlinikove-trubky/kat-E300000101.html)
+> __Průměr filtru a stoupání:__ Most often refers to 0.75 mm pitch thread, but an (incompatible) (wiki)
+
+> [Zrcátko](https://www.edmundoptics.com/p/elliptical-mirror-2223mm-minor-axis-protected-aluminum/1919/) 
+> V reálu je potřebná hlavní poloosa 14 mm (celkem 28) a vedlejší 8 mm (celk 16)
 
 ------------------
 __!! staré !!__
