@@ -66,6 +66,7 @@ V této rovině vznikají stopy velké zhruba 300 μm.
 > [Zrcátko](https://www.edmundoptics.com/p/elliptical-mirror-2223mm-minor-axis-protected-aluminum/1919/) 
 > V reálu je potřebná hlavní poloosa 14 mm (celkem 28) a vedlejší 8 mm (celk 16)
 
+> Správně pojmenovat soubory s kroužky - jsou normované! [odkaz](https://www.dolezal-pe.cz/data/cf5/000355_000162.pdf)
 ------------------
 __!! staré !!__
 -----------------
