@@ -74,6 +74,19 @@ V této rovině vznikají stopy velké zhruba 300 μm.
 > _ohnisko okuláru 5,55 mm_ znamená opravit rozsah o +/- 0,123 mm
 > __celkově je zapotřbí oprava o +/- 0,4 mm__
 
+nyní hordnoty bez korekce
+
+|předmnětová vzdálenost| vzdálenost obrazu od ohniska| vzdálenost s korekcí pro 4D|
+|---------------------:|----------------------------:|---------:|
+| inf |     0 mm| 0,400 mm|
+|20 m | 8,141 mm | 8,541 mm|
+|10 m | 16,615 mm | 17,115 mm|
+
+> __Volíkm ostření na 20 metrů__ už tak není moc místa
+
+| předmětová vzdálenost| vzdálenost obrazu od ohniska s korekcí|
+|------------:|--------------:|
+
 > nekonvenční technologie http://www.techmagazin.cz/2332
 ------------------
 __!! staré !!__
