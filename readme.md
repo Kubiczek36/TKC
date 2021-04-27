@@ -67,6 +67,14 @@ V této rovině vznikají stopy velké zhruba 300 μm.
 > V reálu je potřebná hlavní poloosa 14 mm (celkem 28) a vedlejší 8 mm (celk 16)
 
 > Správně pojmenovat soubory s kroužky - jsou normované! [odkaz](https://www.dolezal-pe.cz/data/cf5/000355_000162.pdf)
+
+> Ostřící rozsah [PDFko str 19](http://physics.fme.vutbr.cz/files/vyuka/OptPristroje/OP7_Zakladni%20opticke%20pristroje.pdf)
+
+> _ohnisko okuláru 16,2 mm_ znamená opravit ostřící rozsah rozsah o +/- 0,4 mm, 
+> _ohnisko okuláru 5,55 mm_ znamená opravit rozsah o +/- 0,123 mm
+> __celkově je zapotřbí oprava o +/- 0,4 mm__
+
+> nekonvenční technologie http://www.techmagazin.cz/2332
 ------------------
 __!! staré !!__
 -----------------
