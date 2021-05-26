@@ -1,6 +1,15 @@
 # Projekt dalekohledu pro předmět TKC
 
-Dalekohled se bode skládat z objektivu a okuláru s určením pro pozemní pozorování. Jako převracecí mechanismus bude použito zrcátko.
+![Dalekohledy](imgs/dalekohledy_1.png)
+
+__Co tu naleznete?__
+
+- [Zemax](zemax) - simulace optických vlastností v programu Zemax Optic studio
+- [CAD](CAD) - soubory jednotlivých dílů a sestavy v Solidworks
+- [imgs](imgs) - ilustrace a obrázky pro tento dokument
+- [parts](parts) - dokumentace od výrobce vybraných použitých dílů.
+
+Dalekohled se bude skládat z objektivu a okuláru s určením pro pozemní pozorování. Jako převracecí mechanismus bude použito zrcátko.
 
 [Stránky Meopty](https://eshop.meopta.cz/spektivy/) s inspirací.
 
@@ -57,6 +66,60 @@ Při použití nejkratšího ohniska okuláru 5,17 mm se vlivem vinětace omezí
 
 V této rovině vznikají stopy velké zhruba 300 μm.
 
+### Výpočet ostřícího rozsahu
+
+Z rovnice paraxiální čočky lze vypočítat rozsah výsuvu potřebný pro ostření mězi nekonečněm a předmětem umístěným ve vzdálenosti 20 m. Pro předmět umístěný v 20 metrech vychází obrazová vzdálenost a' = f' + 8,141 mm. Dále je zapotřebí započítat korekci vad oka v rozsahu 4D. Užitím vztahu ze strany 19 [[1](#lit)] zjistíme, že při použití delšího ohniska 16,2 mm vyžaduje korekce vady přidání dalších 0,4 mm k výsuvu a to na obě strany.
+
+|předmnětová vzdálenost| vzdálenost obrazu od ohniska| vzdálenost s korekcí pro 4D|
+|---------------------:|----------------------------:|---------:|
+| inf |     0 mm| - 0,400 mm|
+|20 m | 8,141 mm | 8,541 mm|
+
+![Ostřící rozsah](imgs/rozsah.png)
+
+Při tvorbě mechanického návrhu je dále počítáno s 0,5 mm rezervou, tak aby šlo přeostřit "za nekonečno" i před 20 m.
+
+## Návrh mechanické konstrukce
+
+Pro mechanickou konstrukci jsem volil rozvržení jak lze vidět na obrázku níže. Pro podrobnější vhled doporučuji nahlédnout do [výkresu sestav](CAD/drawings/TKC_000.pdf). 
+
+![Dalekohledy](imgs/dalekohledy_1.png)
+
+Objektiv je uložen v objímce, která je závitem připojená k tubusu. Detail uložení lze vidět na následujícím obrázku.
+
+![Uložení objektivu](imgs/ulozeni_objektivu.png)
+
+Tubus je nevržený tak, aby tvarem ušetřil materiál a byl zároveň co nejrobustnější. Bohužel však tato konstrukce je obrížně vyrobitelná. Proto pro případ výroby je vhodné vytvořit tubus podle následujícího schématu.
+
+![Upravenž tubus](imgs/vylepseny_tubus.png)
+
+Každá z částí by byla zhruba 10 cm dlouhá, proto by byla snáze vyrobitelná. Jednotlivé části by byly spojeny závitem a na prostřední rovné části by byla uplá přípojka na stativ, přičmž by pro režim fotografování snadno šlo vyvažovat soustavu.
+
+Uvnitř kostky připojené k tubusu se nachází [eliptické zrcátko](https://www.edmundoptics.com/p/elliptical-mirror-2223mm-minor-axis-protected-aluminum/1919/) od firmy Edmund Optics. Pro obsažení celého pole je zapotřebí zrcátko s hlavní poloosou 14 mm a vedlejší poloosou 8 mm, což vybrané zrcátko pohodlně splňuje.
+
+Zrcátko je upevněno na tříbodém justážním mechanizmu, kdy va šouby s jemným stoupáním tlačí proti pružinkám. Pružinky jsou zajištěny kolíky a jako osa rotace slouží kalená kulička. Destička s zrcátkem je přikryta krytem, aby se dovnitř kostky nedostávaly nečistoty zároveň aby nebyly odkrety justážní šrouby.
+
+![Justážní mechanizmus](imgs/justazni_mechanizmus.png)
+
+Okulárový výsuv je řešen pomocí závitu. Hmatník je pomocí dvou C-prstenců připevněn k statickému dílu a pomocí závitu na vnitřní straně se posouvá vnitřní díl. Ve vnitřním dílu je drážka, která omezuje pohyb dílu.
+
+![Výsuv](imgs/vysuv.png)
+
+Při fotografování je zapotřebí odšroubovat kostku se zenitovým zrcátkem a připojit výsuv zakončený M42 bajonetem. Výsuv je řešen obdobně jako v případě okuláru.
+
+![Fotografický výsuv](imgs/vysuv_foto.png)
+
+### Materiály a další úpravy
+
+Jako materiál byla u většiny dílů volena hliníková slitina EN AW 2030 nebo 5083. Díly je zapotřebí po obrábění eloxovat. Pro případné požadavky přesné výroby vybraných ploch je vhodné nechat před eloxací drobný přídavek a požadované plochy po eloxaci doobrobit. 
+
+## Závěr
+
+Byl úspěšně navržen čočkový dalekohled keplerova typu. Pro dalekohled byl vybrán vhodný objektiv a okulár. Pomocí počítačové simulace byly zjištěny jeho optické vlastnosti. Následně bylo vypočítán rozsah výsuvu potřebný pro pozorování objektů mezi nekonečnem a 20m. Byl vypočítán rozsah potřebný pro korekci zrakových vad do 4 D. Následně byla navržena mechanická konstrukce dalekohledu. Pro potřeby výroby byly vytvořeny výrobní výkresy vybraných dílů a výkres sestavy.
+
+## Literatura <a name="lit"></a>
+
+[1] Liška Miroslav: _Optické sešity_ [cit. 24.5.2021] url: http://physics.fme.vutbr.cz/files/vyuka/OptPristroje/OP7_Zakladni%20opticke%20pristroje.pdf
 
 > odhadem vstupní pupila průměr 40,5
 
@@ -76,11 +139,6 @@ V této rovině vznikají stopy velké zhruba 300 μm.
 
 nyní hordnoty bez korekce
 
-|předmnětová vzdálenost| vzdálenost obrazu od ohniska| vzdálenost s korekcí pro 4D|
-|---------------------:|----------------------------:|---------:|
-| inf |     0 mm| 0,400 mm|
-|20 m | 8,141 mm | 8,541 mm|
-|10 m | 16,615 mm | 17,115 mm|
 
 > __Volíkm ostření na 20 metrů__ už tak není moc místa
 
@@ -123,6 +181,10 @@ Dále je v nabídce dublet s ohniskem 10 mm následné zv. 50 x.
 > * [čočka f_1](https://www.edmundoptics.com/p/25mm-dia-x-25mm-fl-mgfsub2sub-coated-achromatic-doublet-lens/20105/) prum 25 mm ohnisko 25
 
 ## Literatura <a name="lit"></a>
+
+[1] Liška Miroslav: _Optické sešity_ [cit. 24.5.2021] url: http://physics.fme.vutbr.cz/files/vyuka/OptPristroje/OP7_Zakladni%20opticke%20pristroje.pdf
+
+------
 
 [1] Fuka Josef, Havelka Bedřich: _Optika a atomová fyzika_. SPN Praha 1961.
 

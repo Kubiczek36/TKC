@@ -1,0 +1,3439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160mm"
+   height="90mm"
+   viewBox="0 0 160 90"
+   version="1.1"
+   id="svg427"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="field_curv.svg">
+  <defs
+     id="defs421">
+    <clipPath
+       id="LC365_SetClip">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="LC366" />
+    </clipPath>
+    <clipPath
+       id="clipPath441">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect439" />
+    </clipPath>
+    <clipPath
+       id="clipPath445">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect443" />
+    </clipPath>
+    <clipPath
+       id="clipPath449">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect447" />
+    </clipPath>
+    <clipPath
+       id="clipPath453">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect451" />
+    </clipPath>
+    <clipPath
+       id="clipPath457">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect455" />
+    </clipPath>
+    <clipPath
+       id="clipPath461">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect459" />
+    </clipPath>
+    <clipPath
+       id="clipPath465">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect463" />
+    </clipPath>
+    <clipPath
+       id="clipPath469">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect467" />
+    </clipPath>
+    <clipPath
+       id="clipPath473">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect471" />
+    </clipPath>
+    <clipPath
+       id="clipPath477">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect475" />
+    </clipPath>
+    <clipPath
+       id="clipPath481">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect479" />
+    </clipPath>
+    <clipPath
+       id="clipPath485">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect483" />
+    </clipPath>
+    <clipPath
+       id="clipPath489">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect487" />
+    </clipPath>
+    <clipPath
+       id="clipPath493">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect491" />
+    </clipPath>
+    <clipPath
+       id="clipPath497">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect495" />
+    </clipPath>
+    <clipPath
+       id="clipPath501">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect499" />
+    </clipPath>
+    <clipPath
+       id="clipPath505">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect503" />
+    </clipPath>
+    <clipPath
+       id="clipPath509">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect507" />
+    </clipPath>
+    <clipPath
+       id="clipPath513">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect511" />
+    </clipPath>
+    <clipPath
+       id="clipPath517">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect515" />
+    </clipPath>
+    <clipPath
+       id="clipPath521">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect519" />
+    </clipPath>
+    <clipPath
+       id="clipPath525">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect523" />
+    </clipPath>
+    <clipPath
+       id="clipPath529">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect527" />
+    </clipPath>
+    <clipPath
+       id="clipPath533">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect531" />
+    </clipPath>
+    <clipPath
+       id="clipPath537">
+      <rect
+         x="618"
+         y="164"
+         width="1116"
+         height="1304"
+         id="rect535" />
+    </clipPath>
+    <clipPath
+       id="LC445_SetClip">
+      <rect
+         x="618"
+         y="0"
+         width="1116"
+         height="2800"
+         id="LC446" />
+    </clipPath>
+    <clipPath
+       id="clipPath543">
+      <rect
+         x="618"
+         y="0"
+         width="1116"
+         height="2800"
+         id="rect541" />
+    </clipPath>
+    <clipPath
+       id="clipPath547">
+      <rect
+         x="618"
+         y="0"
+         width="1116"
+         height="2800"
+         id="rect545" />
+    </clipPath>
+    <clipPath
+       id="clipPath551">
+      <rect
+         x="618"
+         y="0"
+         width="1116"
+         height="2800"
+         id="rect549" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC455_SetClip)"
+       id="LC457_SetClip">
+      <polygon
+         points="485.3,122 603.3,208 485.3,208 "
+         id="LC458" />
+      <polygon
+         points="485.3,122 603.3,122 603.3,208 "
+         id="LC459" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC502_SetClip)"
+       id="LC504_SetClip">
+      <polygon
+         points="0,2239 1866,2799 0,2799 "
+         id="LC505" />
+      <polygon
+         points="0,2239 1866,2239 1866,2799 "
+         id="LC506" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC502_SetClip)"
+       id="clipPath563">
+      <polygon
+         points="0,2239 1866,2799 0,2799 "
+         id="polygon559" />
+      <polygon
+         points="0,2239 1866,2239 1866,2799 "
+         id="polygon561" />
+    </clipPath>
+    <clipPath
+       id="LC455_SetClip">
+      <rect
+         x="0"
+         y="0"
+         width="1866"
+         height="2800"
+         id="LC456" />
+    </clipPath>
+    <clipPath
+       id="clipPath569">
+      <rect
+         x="0"
+         y="0"
+         width="1866"
+         height="2800"
+         id="rect567" />
+    </clipPath>
+    <clipPath
+       id="clipPath573">
+      <rect
+         x="0"
+         y="0"
+         width="1866"
+         height="2800"
+         id="rect571" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC524_SetClip)"
+       id="LC526_SetClip">
+      <polygon
+         points="56,2335 1224,2795.8 56,2795.8 "
+         id="LC527" />
+      <polygon
+         points="56,2335 1224,2335 1224,2795.8 "
+         id="LC528" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC538_SetClip)"
+       id="LC540_SetClip">
+      <polygon
+         points="20,2241 1861.2,2325 20,2325 "
+         id="LC541" />
+      <polygon
+         points="20,2241 1861.2,2241 1861.2,2325 "
+         id="LC542" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC546_SetClip)"
+       id="LC548_SetClip">
+      <polygon
+         points="1246,2335.8 1823.2,2611 1246,2611 "
+         id="LC549" />
+      <polygon
+         points="1246,2335.8 1823.2,2335.8 1823.2,2611 "
+         id="LC550" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC556_SetClip)"
+       id="LC558_SetClip">
+      <polygon
+         points="1246,2615.8 1823.2,2796.6 1246,2796.6 "
+         id="LC559" />
+      <polygon
+         points="1246,2615.8 1823.2,2615.8 1823.2,2796.6 "
+         id="LC560" />
+    </clipPath>
+    <clipPath
+       id="LC579_SetClip">
+      <rect
+         x="577"
+         y="2111"
+         width="712"
+         height="62"
+         id="LC580" />
+    </clipPath>
+    <clipPath
+       id="LC584_SetClip">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="LC585" />
+    </clipPath>
+    <clipPath
+       id="clipPath593">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect591" />
+    </clipPath>
+    <clipPath
+       id="clipPath597">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect595" />
+    </clipPath>
+    <clipPath
+       id="clipPath601">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect599" />
+    </clipPath>
+    <clipPath
+       id="clipPath605">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect603" />
+    </clipPath>
+    <clipPath
+       id="clipPath609">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect607" />
+    </clipPath>
+    <clipPath
+       id="clipPath613">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect611" />
+    </clipPath>
+    <clipPath
+       id="clipPath617">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect615" />
+    </clipPath>
+    <clipPath
+       id="clipPath621">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect619" />
+    </clipPath>
+    <clipPath
+       id="clipPath625">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect623" />
+    </clipPath>
+    <clipPath
+       id="clipPath629">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect627" />
+    </clipPath>
+    <clipPath
+       id="clipPath633">
+      <rect
+         x="582"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect631" />
+    </clipPath>
+    <clipPath
+       id="clipPath637">
+      <rect
+         x="577"
+         y="2111"
+         width="712"
+         height="62"
+         id="rect635" />
+    </clipPath>
+    <clipPath
+       id="LC605_SetClip">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="LC606" />
+    </clipPath>
+    <clipPath
+       id="clipPath643">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect641" />
+    </clipPath>
+    <clipPath
+       id="clipPath647">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect645" />
+    </clipPath>
+    <clipPath
+       id="clipPath651">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect649" />
+    </clipPath>
+    <clipPath
+       id="clipPath655">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect653" />
+    </clipPath>
+    <clipPath
+       id="clipPath659">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect657" />
+    </clipPath>
+    <clipPath
+       id="clipPath663">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect661" />
+    </clipPath>
+    <clipPath
+       id="clipPath667">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect665" />
+    </clipPath>
+    <clipPath
+       id="clipPath671">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect669" />
+    </clipPath>
+    <clipPath
+       id="clipPath675">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect673" />
+    </clipPath>
+    <clipPath
+       id="clipPath679">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect677" />
+    </clipPath>
+    <clipPath
+       id="clipPath683">
+      <rect
+         x="816"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect681" />
+    </clipPath>
+    <clipPath
+       id="clipPath687">
+      <rect
+         x="577"
+         y="2111"
+         width="712"
+         height="62"
+         id="rect685" />
+    </clipPath>
+    <clipPath
+       id="LC626_SetClip">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="LC627" />
+    </clipPath>
+    <clipPath
+       id="clipPath693">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect691" />
+    </clipPath>
+    <clipPath
+       id="clipPath697">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect695" />
+    </clipPath>
+    <clipPath
+       id="clipPath701">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect699" />
+    </clipPath>
+    <clipPath
+       id="clipPath705">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect703" />
+    </clipPath>
+    <clipPath
+       id="clipPath709">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect707" />
+    </clipPath>
+    <clipPath
+       id="clipPath713">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect711" />
+    </clipPath>
+    <clipPath
+       id="clipPath717">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect715" />
+    </clipPath>
+    <clipPath
+       id="clipPath721">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect719" />
+    </clipPath>
+    <clipPath
+       id="clipPath725">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect723" />
+    </clipPath>
+    <clipPath
+       id="clipPath729">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect727" />
+    </clipPath>
+    <clipPath
+       id="clipPath733">
+      <rect
+         x="1050"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect731" />
+    </clipPath>
+    <clipPath
+       id="LC646_SetClip">
+      <polygon
+         points="-147.0437,30.66528 -147.0437,-31.33472 564.9563,-31.33472 564.9563,30.66528 "
+         id="LC647" />
+    </clipPath>
+    <clipPath
+       id="LC650_SetClip">
+      <polygon
+         points="-381.0437,30.66528 -381.0437,-31.33472 330.9563,-31.33472 330.9563,30.66528 "
+         id="LC651" />
+    </clipPath>
+    <clipPath
+       id="LC654_SetClip">
+      <polygon
+         points="-615.0437,30.66528 -615.0437,-31.33472 96.9563,-31.33472 96.9563,30.66528 "
+         id="LC655" />
+    </clipPath>
+    <clipPath
+       id="LC4_SetClip">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="LC5" />
+    </clipPath>
+    <clipPath
+       id="clipPath3165">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3163" />
+    </clipPath>
+    <clipPath
+       id="clipPath3169">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3167" />
+    </clipPath>
+    <clipPath
+       id="clipPath3173">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3171" />
+    </clipPath>
+    <clipPath
+       id="clipPath3177">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3175" />
+    </clipPath>
+    <clipPath
+       id="clipPath3181">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3179" />
+    </clipPath>
+    <clipPath
+       id="clipPath3185">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3183" />
+    </clipPath>
+    <clipPath
+       id="clipPath3189">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3187" />
+    </clipPath>
+    <clipPath
+       id="clipPath3193">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3191" />
+    </clipPath>
+    <clipPath
+       id="clipPath3197">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3195" />
+    </clipPath>
+    <clipPath
+       id="clipPath3201">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3199" />
+    </clipPath>
+    <clipPath
+       id="clipPath3205">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3203" />
+    </clipPath>
+    <clipPath
+       id="clipPath3209">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3207" />
+    </clipPath>
+    <clipPath
+       id="clipPath3213">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3211" />
+    </clipPath>
+    <clipPath
+       id="clipPath3217">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3215" />
+    </clipPath>
+    <clipPath
+       id="clipPath3221">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3219" />
+    </clipPath>
+    <clipPath
+       id="clipPath3225">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3223" />
+    </clipPath>
+    <clipPath
+       id="clipPath3229">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3227" />
+    </clipPath>
+    <clipPath
+       id="clipPath3233">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3231" />
+    </clipPath>
+    <clipPath
+       id="clipPath3237">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3235" />
+    </clipPath>
+    <clipPath
+       id="clipPath3241">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3239" />
+    </clipPath>
+    <clipPath
+       id="clipPath3245">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3243" />
+    </clipPath>
+    <clipPath
+       id="clipPath3249">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3247" />
+    </clipPath>
+    <clipPath
+       id="clipPath3253">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3251" />
+    </clipPath>
+    <clipPath
+       id="clipPath3257">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3255" />
+    </clipPath>
+    <clipPath
+       id="clipPath3261">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3259" />
+    </clipPath>
+    <clipPath
+       id="clipPath3265">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3263" />
+    </clipPath>
+    <clipPath
+       id="clipPath3269">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3267" />
+    </clipPath>
+    <clipPath
+       id="clipPath3273">
+      <rect
+         x="790"
+         y="164"
+         width="944"
+         height="1304"
+         id="rect3271" />
+    </clipPath>
+    <clipPath
+       id="LC99_SetClip">
+      <rect
+         x="790"
+         y="0"
+         width="944"
+         height="2800"
+         id="LC100" />
+    </clipPath>
+    <clipPath
+       id="clipPath3279">
+      <rect
+         x="790"
+         y="0"
+         width="944"
+         height="2800"
+         id="rect3277" />
+    </clipPath>
+    <clipPath
+       id="clipPath3283">
+      <rect
+         x="790"
+         y="0"
+         width="944"
+         height="2800"
+         id="rect3281" />
+    </clipPath>
+    <clipPath
+       id="clipPath3287">
+      <rect
+         x="790"
+         y="0"
+         width="944"
+         height="2800"
+         id="rect3285" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC109_SetClip)"
+       id="LC111_SetClip">
+      <polygon
+         points="775.3,208 657.3,208 657.3,122 "
+         id="LC112" />
+      <polygon
+         points="775.3,122 775.3,208 657.3,122 "
+         id="LC113" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC156_SetClip)"
+       id="LC158_SetClip">
+      <polygon
+         points="1866,2799 0,2799 0,2239 "
+         id="LC159" />
+      <polygon
+         points="1866,2239 1866,2799 0,2239 "
+         id="LC160" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC156_SetClip)"
+       id="clipPath3299">
+      <polygon
+         points="1866,2799 0,2799 0,2239 "
+         id="polygon3295" />
+      <polygon
+         points="1866,2239 1866,2799 0,2239 "
+         id="polygon3297" />
+    </clipPath>
+    <clipPath
+       id="LC109_SetClip">
+      <rect
+         x="0"
+         y="0"
+         width="1866"
+         height="2800"
+         id="LC110" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC168_SetClip)"
+       id="LC170_SetClip">
+      <polygon
+         points="1846,2795.8 56,2795.8 56,2335 "
+         id="LC171" />
+      <polygon
+         points="1846,2335 1846,2795.8 56,2335 "
+         id="LC172" />
+    </clipPath>
+    <clipPath
+       clip-path="url(#LC186_SetClip)"
+       id="LC188_SetClip">
+      <polygon
+         points="1861.2,2325 20,2325 20,2241 "
+         id="LC189" />
+      <polygon
+         points="1861.2,2241 1861.2,2325 20,2241 "
+         id="LC190" />
+    </clipPath>
+    <clipPath
+       id="LC207_SetClip">
+      <rect
+         x="115"
+         y="2059"
+         width="1636"
+         height="114"
+         id="LC208" />
+    </clipPath>
+    <clipPath
+       id="LC212_SetClip">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="LC213" />
+    </clipPath>
+    <clipPath
+       id="clipPath3315">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3313" />
+    </clipPath>
+    <clipPath
+       id="clipPath3319">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3317" />
+    </clipPath>
+    <clipPath
+       id="clipPath3323">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3321" />
+    </clipPath>
+    <clipPath
+       id="clipPath3327">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3325" />
+    </clipPath>
+    <clipPath
+       id="clipPath3331">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3329" />
+    </clipPath>
+    <clipPath
+       id="clipPath3335">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3333" />
+    </clipPath>
+    <clipPath
+       id="clipPath3339">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3337" />
+    </clipPath>
+    <clipPath
+       id="clipPath3343">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3341" />
+    </clipPath>
+    <clipPath
+       id="clipPath3347">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3345" />
+    </clipPath>
+    <clipPath
+       id="clipPath3351">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3349" />
+    </clipPath>
+    <clipPath
+       id="clipPath3355">
+      <rect
+         x="120"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3353" />
+    </clipPath>
+    <clipPath
+       id="clipPath3359">
+      <rect
+         x="115"
+         y="2059"
+         width="1636"
+         height="114"
+         id="rect3357" />
+    </clipPath>
+    <clipPath
+       id="LC233_SetClip">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="LC234" />
+    </clipPath>
+    <clipPath
+       id="clipPath3365">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3363" />
+    </clipPath>
+    <clipPath
+       id="clipPath3369">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3367" />
+    </clipPath>
+    <clipPath
+       id="clipPath3373">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3371" />
+    </clipPath>
+    <clipPath
+       id="clipPath3377">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3375" />
+    </clipPath>
+    <clipPath
+       id="clipPath3381">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3379" />
+    </clipPath>
+    <clipPath
+       id="clipPath3385">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3383" />
+    </clipPath>
+    <clipPath
+       id="clipPath3389">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3387" />
+    </clipPath>
+    <clipPath
+       id="clipPath3393">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3391" />
+    </clipPath>
+    <clipPath
+       id="clipPath3397">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3395" />
+    </clipPath>
+    <clipPath
+       id="clipPath3401">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3399" />
+    </clipPath>
+    <clipPath
+       id="clipPath3405">
+      <rect
+         x="662"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3403" />
+    </clipPath>
+    <clipPath
+       id="clipPath3409">
+      <rect
+         x="115"
+         y="2059"
+         width="1636"
+         height="114"
+         id="rect3407" />
+    </clipPath>
+    <clipPath
+       id="LC254_SetClip">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="LC255" />
+    </clipPath>
+    <clipPath
+       id="clipPath3415">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3413" />
+    </clipPath>
+    <clipPath
+       id="clipPath3419">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3417" />
+    </clipPath>
+    <clipPath
+       id="clipPath3423">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3421" />
+    </clipPath>
+    <clipPath
+       id="clipPath3427">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3425" />
+    </clipPath>
+    <clipPath
+       id="clipPath3431">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3429" />
+    </clipPath>
+    <clipPath
+       id="clipPath3435">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3433" />
+    </clipPath>
+    <clipPath
+       id="clipPath3439">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3437" />
+    </clipPath>
+    <clipPath
+       id="clipPath3443">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3441" />
+    </clipPath>
+    <clipPath
+       id="clipPath3447">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3445" />
+    </clipPath>
+    <clipPath
+       id="clipPath3451">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3449" />
+    </clipPath>
+    <clipPath
+       id="clipPath3455">
+      <rect
+         x="1204"
+         y="2075"
+         width="30"
+         height="30"
+         id="rect3453" />
+    </clipPath>
+    <clipPath
+       id="clipPath3459">
+      <rect
+         x="115"
+         y="2059"
+         width="1636"
+         height="114"
+         id="rect3457" />
+    </clipPath>
+    <clipPath
+       id="LC275_SetClip">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="LC276" />
+    </clipPath>
+    <clipPath
+       id="clipPath3465">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3463" />
+    </clipPath>
+    <clipPath
+       id="clipPath3469">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3467" />
+    </clipPath>
+    <clipPath
+       id="clipPath3473">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3471" />
+    </clipPath>
+    <clipPath
+       id="clipPath3477">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3475" />
+    </clipPath>
+    <clipPath
+       id="clipPath3481">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3479" />
+    </clipPath>
+    <clipPath
+       id="clipPath3485">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3483" />
+    </clipPath>
+    <clipPath
+       id="clipPath3489">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3487" />
+    </clipPath>
+    <clipPath
+       id="clipPath3493">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3491" />
+    </clipPath>
+    <clipPath
+       id="clipPath3497">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3495" />
+    </clipPath>
+    <clipPath
+       id="clipPath3501">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3499" />
+    </clipPath>
+    <clipPath
+       id="clipPath3505">
+      <rect
+         x="120"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3503" />
+    </clipPath>
+    <clipPath
+       id="clipPath3509">
+      <rect
+         x="115"
+         y="2059"
+         width="1636"
+         height="114"
+         id="rect3507" />
+    </clipPath>
+    <clipPath
+       id="LC296_SetClip">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="LC297" />
+    </clipPath>
+    <clipPath
+       id="clipPath3515">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3513" />
+    </clipPath>
+    <clipPath
+       id="clipPath3519">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3517" />
+    </clipPath>
+    <clipPath
+       id="clipPath3523">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3521" />
+    </clipPath>
+    <clipPath
+       id="clipPath3527">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3525" />
+    </clipPath>
+    <clipPath
+       id="clipPath3531">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3529" />
+    </clipPath>
+    <clipPath
+       id="clipPath3535">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3533" />
+    </clipPath>
+    <clipPath
+       id="clipPath3539">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3537" />
+    </clipPath>
+    <clipPath
+       id="clipPath3543">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3541" />
+    </clipPath>
+    <clipPath
+       id="clipPath3547">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3545" />
+    </clipPath>
+    <clipPath
+       id="clipPath3551">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3549" />
+    </clipPath>
+    <clipPath
+       id="clipPath3555">
+      <rect
+         x="662"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3553" />
+    </clipPath>
+    <clipPath
+       id="clipPath3559">
+      <rect
+         x="115"
+         y="2059"
+         width="1636"
+         height="114"
+         id="rect3557" />
+    </clipPath>
+    <clipPath
+       id="LC317_SetClip">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="LC318" />
+    </clipPath>
+    <clipPath
+       id="clipPath3565">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3563" />
+    </clipPath>
+    <clipPath
+       id="clipPath3569">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3567" />
+    </clipPath>
+    <clipPath
+       id="clipPath3573">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3571" />
+    </clipPath>
+    <clipPath
+       id="clipPath3577">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3575" />
+    </clipPath>
+    <clipPath
+       id="clipPath3581">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3579" />
+    </clipPath>
+    <clipPath
+       id="clipPath3585">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3583" />
+    </clipPath>
+    <clipPath
+       id="clipPath3589">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3587" />
+    </clipPath>
+    <clipPath
+       id="clipPath3593">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3591" />
+    </clipPath>
+    <clipPath
+       id="clipPath3597">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3595" />
+    </clipPath>
+    <clipPath
+       id="clipPath3601">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3599" />
+    </clipPath>
+    <clipPath
+       id="clipPath3605">
+      <rect
+         x="1204"
+         y="2127"
+         width="30"
+         height="30"
+         id="rect3603" />
+    </clipPath>
+    <clipPath
+       id="LC337_SetClip">
+      <polygon
+         points="1334.876,-31.33472 1334.876,82.66528 -301.1238,82.66528 -301.1238,-31.33472 "
+         id="LC338" />
+    </clipPath>
+    <clipPath
+       id="LC341_SetClip">
+      <polygon
+         points="820.8907,-31.33472 820.8907,82.66528 -815.1093,82.66528 -815.1093,-31.33472 "
+         id="LC342" />
+    </clipPath>
+    <clipPath
+       id="LC345_SetClip">
+      <polygon
+         points="250.8761,-31.33472 250.8761,82.66528 -1385.124,82.66528 -1385.124,-31.33472 "
+         id="LC346" />
+    </clipPath>
+    <clipPath
+       id="LC349_SetClip">
+      <polygon
+         points="1362.891,-83.33472 1362.891,30.66528 -273.1093,30.66528 -273.1093,-83.33472 "
+         id="LC350" />
+    </clipPath>
+    <clipPath
+       id="LC353_SetClip">
+      <polygon
+         points="792.8762,-83.33472 792.8762,30.66528 -843.1238,30.66528 -843.1238,-83.33472 "
+         id="LC354" />
+    </clipPath>
+    <clipPath
+       id="LC357_SetClip">
+      <polygon
+         points="278.8907,-83.33472 278.8907,30.66528 -1357.109,30.66528 -1357.109,-83.33472 "
+         id="LC358" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9702615"
+     inkscape:cx="484.06303"
+     inkscape:cy="168.08249"
+     inkscape:document-units="mm"
+     inkscape:current-layer="root_group"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1380"
+     inkscape:window-height="793"
+     inkscape:window-x="81"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata424">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1627">
+      <g
+         style="shape-rendering:crispEdges"
+         id="root_group"
+         transform="matrix(0.02582112,0,0,0.02582112,77.64896,43.203743)">
+        <line
+           y1="78"
+           style="opacity:1;fill:none;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round"
+           id="LC417"
+           x2="1734"
+           y2="78"
+           x1="618"
+           clip-path="url(#LC365_SetClip)" />
+        <line
+           y1="-95"
+           style="opacity:1;fill:none;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round"
+           id="LC418"
+           x2="1734"
+           y2="-95"
+           x1="618"
+           clip-path="url(#LC365_SetClip)" />
+        <line
+           y1="-269"
+           style="opacity:1;fill:none;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round"
+           id="LC419"
+           x2="1734"
+           y2="-269"
+           x1="618"
+           clip-path="url(#LC365_SetClip)" />
+        <polyline
+           style="opacity:1;fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+           points="544.3 165.0001 614.8823 165 "
+           id="LC452"
+           clip-path="url(#LC445_SetClip)" />
+        <circle
+           id="LC453"
+           cy="165"
+           cx="544.29999"
+           style="opacity:1;fill:#000000;stroke:none"
+           clip-path="url(#LC445_SetClip)"
+           r="1.8" />
+        <text
+           id="LC500"
+           style="font-size:86.9428px;font-family:'Lucida Sans Typewriter';opacity:1;fill:#000000;stroke:none"
+           transform="rotate(-90,615.49998,200.50001)"
+           x="0"
+           y="80.659767" />
+        <line
+           y1="-1450.0488"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC368"
+           x2="2788.8257"
+           y2="-1450.0488"
+           x1="892.28882" />
+        <line
+           y1="766.26318"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC369"
+           x2="2788.8257"
+           y2="766.26318"
+           x1="892.28882" />
+        <line
+           y1="-1450.0488"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC370"
+           x2="892.28882"
+           y2="766.26318"
+           x1="892.28882" />
+        <line
+           y1="-1450.0488"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC371"
+           x2="2788.8257"
+           y2="766.26318"
+           x1="2788.8257" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC398"
+           x2="618"
+           y2="165"
+           x1="618"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC399"
+           x2="730"
+           y2="165"
+           x1="730"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC400"
+           x2="841"
+           y2="165"
+           x1="841"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC401"
+           x2="953"
+           y2="165"
+           x1="953"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC402"
+           x2="1064"
+           y2="165"
+           x1="1064"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC403"
+           x2="1176"
+           y2="165"
+           x1="1176"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC404"
+           x2="1288"
+           y2="165"
+           x1="1288"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC405"
+           x2="1399"
+           y2="165"
+           x1="1399"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC406"
+           x2="1511"
+           y2="165"
+           x1="1511"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC407"
+           x2="1622"
+           y2="165"
+           x1="1622"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC408"
+           x2="1734"
+           y2="165"
+           x1="1734"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC409"
+           x2="1734"
+           y2="1466"
+           x1="618"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1293"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC410"
+           x2="1734"
+           y2="1293"
+           x1="618"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="1119"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC411"
+           x2="1734"
+           y2="1119"
+           x1="618"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="946"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC412"
+           x2="1734"
+           y2="946"
+           x1="618"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="772"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC413"
+           x2="1734"
+           y2="772"
+           x1="618"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="599"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC414"
+           x2="1734"
+           y2="599"
+           x1="618"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="425"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC415"
+           x2="1734"
+           y2="425"
+           x1="618"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <line
+           y1="252"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC416"
+           x2="1734"
+           y2="252"
+           x1="618"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <polyline
+           style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.55374232;stroke-miterlimit:4;stroke-dasharray:none"
+           points="1176 1466 1176 1453 1176 1440 1176 1427 1176 1414 1176 1401 1176 1388 1177 1375 1177 1362 1177 1349 1178 1336 1178 1323 1179 1310 1179 1297 1180 1284 1181 1271 1182 1258 1182 1245 1183 1232 1184 1219 1185 1206 1186 1193 1187 1180 1188 1167 1189 1154 1190 1141 1191 1128 1193 1115 1194 1102 1195 1089 1197 1076 1198 1063 1200 1050 1201 1037 1203 1024 1204 1011 1206 998 1208 985 1210 972 1211 959 1213 946 1215 933 1217 920 1219 907 1221 894 1223 881 1225 868 1228 855 1230 842 1232 829 1235 816 1237 802 1239 789 1242 776 1244 763 1247 750 1250 737 1252 724 1255 711 1258 698 1261 685 1263 672 1266 659 1269 646 1272 633 1275 620 1278 607 1282 594 1285 581 1288 568 1291 555 1295 542 1298 529 1301 516 1305 503 1308 490 1312 477 1316 464 1319 451 1323 438 1327 425 1330 412 1334 399 1338 386 1342 373 1346 360 1350 347 1354 334 1358 321 1363 308 1367 295 1371 282 1375 269 1380 256 1384 243 1389 230 1393 217 1398 204 1402 191 1407 178 1412 165 "
+           id="LC428"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <polyline
+           style="fill:none;stroke:#00ff00;stroke-width:4.55374;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           points="1176 1466 1176 1453 1176 1440 1176 1427 1176 1414 1176 1401 1176 1388 1177 1375 1177 1362 1177 1349 1178 1336 1178 1323 1179 1310 1179 1297 1180 1284 1181 1271 1182 1258 1182 1245 1183 1232 1184 1219 1185 1206 1186 1193 1187 1180 1188 1167 1189 1154 1190 1141 1191 1128 1193 1115 1194 1102 1195 1089 1197 1076 1198 1063 1200 1050 1201 1037 1203 1024 1204 1011 1206 998 1208 985 1209 972 1211 959 1213 946 1215 933 1217 920 1219 907 1221 894 1223 881 1225 868 1227 855 1230 842 1232 829 1234 816 1237 802 1239 789 1241 776 1244 763 1246 750 1249 737 1252 724 1254 711 1257 698 1260 685 1263 672 1266 659 1269 646 1272 633 1275 620 1278 607 1281 594 1284 581 1287 568 1291 555 1294 542 1297 529 1301 516 1304 503 1308 490 1311 477 1315 464 1318 451 1322 438 1326 425 1330 412 1333 399 1337 386 1341 373 1345 360 1349 347 1353 334 1357 321 1361 308 1366 295 1370 282 1374 269 1379 256 1383 243 1387 230 1392 217 1396 204 1401 191 1406 178 1410 165 "
+           id="LC433"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-151.14705,-1729.0012)" />
+        <polyline
+           style="fill:none;stroke:#ff0000;stroke-width:4.55374;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           points="1176 1466 1176 1453 1176 1440 1176 1427 1176 1414 1176 1401 1176 1388 1177 1375 1177 1362 1177 1349 1178 1336 1178 1323 1179 1310 1179 1297 1180 1284 1181 1271 1181 1258 1182 1245 1183 1232 1184 1219 1185 1206 1186 1193 1187 1180 1188 1167 1189 1154 1190 1141 1191 1128 1193 1115 1194 1102 1195 1089 1197 1076 1198 1063 1199 1050 1201 1037 1203 1024 1204 1011 1206 998 1208 985 1209 972 1211 959 1213 946 1215 933 1217 920 1219 907 1221 894 1223 881 1225 868 1227 855 1229 842 1232 829 1234 816 1236 802 1239 789 1241 776 1244 763 1246 750 1249 737 1252 724 1254 711 1257 698 1260 685 1263 672 1265 659 1268 646 1271 633 1274 620 1277 607 1281 594 1284 581 1287 568 1290 555 1293 542 1297 529 1300 516 1304 503 1307 490 1311 477 1314 464 1318 451 1322 438 1325 425 1329 412 1333 399 1337 386 1341 373 1345 360 1349 347 1353 334 1357 321 1361 308 1365 295 1369 282 1374 269 1378 256 1382 243 1387 230 1391 217 1396 204 1400 191 1405 178 1410 165 "
+           id="LC438"
+           clip-path="url(#LC365_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-162.61054,-1729.0012)" />
+        <line
+           y1="164"
+           style="fill:#ffffff;stroke:#000000;stroke-linecap:butt;fill-opacity:1"
+           id="LC449"
+           x2="1176.2"
+           y2="1467"
+           x1="1176.2"
+           clip-path="url(#LC445_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <polygon
+           style="fill:#ffffff;fill-rule:evenodd;stroke:none;fill-opacity:1"
+           points="614.8823,163.2 618,165 614.8823,166.8 "
+           id="LC454"
+           clip-path="url(#LC445_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <rect
+           id="LC460"
+           height="86"
+           style="opacity:0;fill:#ffffff;stroke:none;fill-opacity:1"
+           width="118"
+           y="122"
+           x="485.29999"
+           clip-path="url(#LC457_SetClip)"
+           transform="matrix(1.7009301,0,0,1.7009301,-158.886,-1729.0012)" />
+        <text
+           id="LC461"
+           style="font-size:88.43489999999999895px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.70093;fill-opacity:1;"
+           x="686.47626"
+           y="-1415.6307">1,5</text>
+        <rect
+           id="LC467"
+           height="6.1233077"
+           style="fill:#ffffff;stroke:none;stroke-width:1.70093;fill-opacity:1"
+           width="1898.2379"
+           y="766.26318"
+           x="892.28882"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC468"
+           x2="892.28882"
+           y2="784.12292"
+           x1="892.28882"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC469"
+           x2="1082.793"
+           y2="784.12292"
+           x1="1082.793"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC470"
+           x2="1271.5963"
+           y2="784.12292"
+           x1="1271.5963"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC471"
+           x2="1462.1005"
+           y2="784.12292"
+           x1="1462.1005"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC472"
+           x2="1650.9037"
+           y2="784.12292"
+           x1="1650.9037"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC473"
+           x2="1841.4078"
+           y2="784.12292"
+           x1="1841.4078"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC474"
+           x2="2031.912"
+           y2="784.12292"
+           x1="2031.912"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC475"
+           x2="2220.7151"
+           y2="784.12292"
+           x1="2220.7151"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC476"
+           x2="2411.2192"
+           y2="784.12292"
+           x1="2411.2192"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC477"
+           x2="2600.0225"
+           y2="784.12292"
+           x1="2600.0225"
+           clip-path="url(#LC463_SetClip)" />
+        <line
+           y1="767.11365"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+           id="LC478"
+           x2="2790.5266"
+           y2="784.12292"
+           x1="2790.5266"
+           clip-path="url(#LC463_SetClip)" />
+        <text
+           id="LC479"
+           style="font-size:113.70199999999999818px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.70093;fill-opacity:1;"
+           x="652.50409"
+           y="898.96417">-5,0e-3</text>
+        <text
+           id="LC481"
+           style="font-size:113.70199999999999818px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.70093;fill-opacity:1;"
+           x="1807.153"
+           y="898.96417">0</text>
+        <text
+           id="LC483"
+           style="font-size:113.70199999999999818px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.70093;fill-opacity:1;"
+           x="2584.9971"
+           y="898.96417">5,0e-3</text>
+        <text
+           id="LC485"
+           style="font-size:147.88399999999998613px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.70093;fill-opacity:1;"
+           x="1529.5382"
+           y="1146.693">Percent</text>
+        <rect
+           id="LC487"
+           height="2214.6108"
+           style="fill:#ffffff;stroke:none;stroke-width:1.70093;fill-opacity:1"
+           width="6.1233077"
+           y="-1449.1982"
+           x="887.18604" />
+        <line
+           y1="764.56226"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC488"
+           x2="892.28882"
+           y2="764.56226"
+           x1="875.27954" />
+        <line
+           y1="469.50696"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC489"
+           x2="892.28882"
+           y2="469.50696"
+           x1="875.27954" />
+        <line
+           y1="174.45357"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC490"
+           x2="892.28882"
+           y2="174.45357"
+           x1="875.27954" />
+        <line
+           y1="-120.60176"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC491"
+           x2="892.28882"
+           y2="-120.60176"
+           x1="875.27954" />
+        <line
+           y1="-415.65619"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC492"
+           x2="892.28882"
+           y2="-415.65619"
+           x1="875.27954" />
+        <line
+           y1="-710.71106"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC493"
+           x2="892.28882"
+           y2="-710.71106"
+           x1="875.27954" />
+        <line
+           y1="-1005.7658"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC494"
+           x2="892.28882"
+           y2="-1005.7658"
+           x1="875.27954" />
+        <line
+           y1="-1300.8207"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.70093;stroke-linecap:butt;fill-opacity:1"
+           id="LC495"
+           x2="892.28882"
+           y2="-1300.8207"
+           x1="875.27954" />
+        <text
+           id="LC496"
+           style="font-size:126.33599999999999852px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.70093;fill-opacity:1;"
+           x="790.65277"
+           y="810.21082">0</text>
+        <text
+           id="LC498"
+           style="font-size:126.33599999999999852px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.70093;fill-opacity:1;"
+           x="638.40869"
+           y="-664.49548">1,0</text>
+        <text
+           id="LC544"
+           style="font-size:177.78299999999998704px;font-family:'Lucida Sans Typewriter';opacity:1;fill:#ffffff;stroke:none;stroke-width:2.65437;fill-opacity:1;"
+           x="901.11395"
+           y="1487.4786"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#ffffff;fill-opacity:1;"
+             id="tspan2511">F-Tan(Theta) Distortion</tspan></text>
+        <line
+           y1="78"
+           style="fill:none;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+           id="LC56"
+           x2="1734"
+           y2="78"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+        <line
+           y1="-95"
+           style="fill:none;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+           id="LC57"
+           x2="1734"
+           y2="-95"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+        <line
+           y1="-269"
+           style="fill:none;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+           id="LC58"
+           x2="1734"
+           y2="-269"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+        <polyline
+           style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+           points="716.3 165.0001 786.8823 165 "
+           id="LC106"
+           clip-path="url(#LC99_SetClip)"
+           transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+        <circle
+           id="LC107"
+           cy="165"
+           cx="716.29999"
+           style="fill:#000000;stroke:none;shape-rendering:crispEdges"
+           clip-path="url(#LC99_SetClip)"
+           r="1.8"
+           transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+        <line
+           y1="-1480.6687"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC7"
+           x2="-333.09692"
+           y2="-1480.6687"
+           x1="-1933.9768" />
+        <line
+           y1="731.36298"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC8"
+           x2="-333.09692"
+           y2="731.36298"
+           x1="-1933.9768" />
+        <line
+           y1="-1480.6687"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC9"
+           x2="-1933.9768"
+           y2="731.36298"
+           x1="-1933.9768" />
+        <line
+           y1="-1480.6687"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC10"
+           x2="-333.09692"
+           y2="731.36298"
+           x1="-333.09692" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC37"
+           x2="790"
+           y2="165"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC38"
+           x2="884"
+           y2="165"
+           x1="884"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC39"
+           x2="979"
+           y2="165"
+           x1="979"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC40"
+           x2="1073"
+           y2="165"
+           x1="1073"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC41"
+           x2="1168"
+           y2="165"
+           x1="1168"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC42"
+           x2="1262"
+           y2="165"
+           x1="1262"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC43"
+           x2="1356"
+           y2="165"
+           x1="1356"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC44"
+           x2="1451"
+           y2="165"
+           x1="1451"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC45"
+           x2="1545"
+           y2="165"
+           x1="1545"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC46"
+           x2="1640"
+           y2="165"
+           x1="1640"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC47"
+           x2="1734"
+           y2="165"
+           x1="1734"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1466"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC48"
+           x2="1734"
+           y2="1466"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1293"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC49"
+           x2="1734"
+           y2="1293"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="1119"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC50"
+           x2="1734"
+           y2="1119"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="946"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC51"
+           x2="1734"
+           y2="946"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="772"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC52"
+           x2="1734"
+           y2="772"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="599"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC53"
+           x2="1734"
+           y2="599"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="425"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC54"
+           x2="1734"
+           y2="425"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="252"
+           style="fill:#ffffff;stroke:#eaeaea;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC55"
+           x2="1734"
+           y2="252"
+           x1="790"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <polyline
+           style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;stroke-width:4.56255289;stroke-miterlimit:4;stroke-dasharray:26.28030575,26.28030575;stroke-dashoffset:0"
+           points="1376 1466 1376 1453 1376 1440 1375 1427 1375 1414 1375 1401 1374 1388 1373 1375 1373 1362 1372 1349 1371 1336 1370 1323 1369 1310 1368 1297 1367 1284 1365 1271 1364 1258 1362 1245 1361 1232 1359 1219 1357 1206 1355 1193 1353 1180 1351 1167 1349 1154 1346 1141 1344 1128 1342 1115 1339 1102 1336 1089 1334 1076 1331 1063 1328 1050 1325 1037 1322 1024 1318 1011 1315 998 1312 985 1308 972 1304 959 1301 946 1297 933 1293 920 1289 907 1285 894 1281 881 1277 868 1272 855 1268 842 1263 829 1259 816 1254 802 1249 789 1244 776 1239 763 1234 750 1229 737 1224 724 1218 711 1213 698 1207 685 1201 672 1196 659 1190 646 1184 633 1178 620 1172 607 1166 594 1159 581 1153 568 1146 555 1140 542 1133 529 1126 516 1119 503 1112 490 1105 477 1098 464 1091 451 1084 438 1076 425 1069 412 1061 399 1053 386 1045 373 1037 360 1029 347 1021 334 1013 321 1005 308 997 295 988 282 980 269 971 256 962 243 953 230 944 217 935 204 926 191 917 178 908 165 "
+           id="LC67"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <polyline
+           style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:26.28030575,26.28030575;shape-rendering:crispEdges;stroke-width:4.56255289;stroke-miterlimit:4;stroke-dashoffset:0"
+           points="1376 1466 1376 1453 1376 1440 1375 1427 1375 1414 1375 1401 1375 1388 1375 1375 1374 1362 1374 1349 1374 1336 1373 1323 1373 1310 1372 1297 1371 1284 1371 1271 1370 1258 1369 1245 1369 1232 1368 1219 1367 1206 1366 1193 1365 1180 1364 1167 1363 1154 1362 1141 1361 1128 1360 1115 1359 1102 1357 1089 1356 1076 1355 1063 1353 1050 1352 1037 1350 1024 1349 1011 1347 998 1346 985 1344 972 1342 959 1341 946 1339 933 1337 920 1335 907 1333 894 1331 881 1329 868 1327 855 1325 842 1323 829 1321 816 1319 802 1317 789 1314 776 1312 763 1310 750 1307 737 1305 724 1302 711 1300 698 1297 685 1294 672 1292 659 1289 646 1286 633 1283 620 1281 607 1278 594 1275 581 1272 568 1269 555 1266 542 1262 529 1259 516 1256 503 1253 490 1249 477 1246 464 1243 451 1239 438 1236 425 1232 412 1229 399 1225 386 1222 373 1218 360 1214 347 1210 334 1207 321 1203 308 1199 295 1195 282 1191 269 1187 256 1183 243 1179 230 1174 217 1170 204 1166 191 1162 178 1157 165 "
+           id="LC72"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <polyline
+           style="fill:none;stroke:#00ff00;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;stroke-width:4.56255289;stroke-miterlimit:4;stroke-dasharray:26.28030575,26.28030575;stroke-dashoffset:0"
+           points="1385 1466 1385 1453 1385 1440 1385 1427 1384 1414 1384 1401 1384 1388 1383 1375 1382 1362 1381 1349 1381 1336 1380 1323 1379 1310 1377 1297 1376 1284 1375 1271 1373 1258 1372 1245 1370 1232 1368 1219 1367 1206 1365 1193 1363 1180 1360 1167 1358 1154 1356 1141 1354 1128 1351 1115 1349 1102 1346 1089 1343 1076 1340 1063 1337 1050 1334 1037 1331 1024 1328 1011 1325 998 1321 985 1318 972 1314 959 1310 946 1307 933 1303 920 1299 907 1295 894 1290 881 1286 868 1282 855 1277 842 1273 829 1268 816 1263 802 1259 789 1254 776 1249 763 1244 750 1238 737 1233 724 1228 711 1222 698 1217 685 1211 672 1205 659 1199 646 1193 633 1187 620 1181 607 1175 594 1169 581 1162 568 1156 555 1149 542 1143 529 1136 516 1129 503 1122 490 1115 477 1108 464 1100 451 1093 438 1086 425 1078 412 1070 399 1063 386 1055 373 1047 360 1039 347 1031 334 1023 321 1014 308 1006 295 998 282 989 269 980 256 972 243 963 230 954 217 945 204 936 191 927 178 917 165 "
+           id="LC77"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <polyline
+           style="fill:none;stroke:#00ff00;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:26.28030575,26.28030575;shape-rendering:crispEdges;stroke-width:4.56255289;stroke-miterlimit:4;stroke-dashoffset:0"
+           points="1385 1466 1385 1453 1385 1440 1385 1427 1385 1414 1385 1401 1384 1388 1384 1375 1384 1362 1383 1349 1383 1336 1383 1323 1382 1310 1382 1297 1381 1284 1380 1271 1380 1258 1379 1245 1378 1232 1377 1219 1377 1206 1376 1193 1375 1180 1374 1167 1373 1154 1372 1141 1370 1128 1369 1115 1368 1102 1367 1089 1366 1076 1364 1063 1363 1050 1361 1037 1360 1024 1358 1011 1357 998 1355 985 1354 972 1352 959 1350 946 1349 933 1347 920 1345 907 1343 894 1341 881 1339 868 1337 855 1335 842 1333 829 1331 816 1328 802 1326 789 1324 776 1322 763 1319 750 1317 737 1314 724 1312 711 1309 698 1307 685 1304 672 1301 659 1299 646 1296 633 1293 620 1290 607 1287 594 1284 581 1281 568 1278 555 1275 542 1272 529 1269 516 1266 503 1262 490 1259 477 1256 464 1252 451 1249 438 1245 425 1242 412 1238 399 1235 386 1231 373 1227 360 1224 347 1220 334 1216 321 1212 308 1208 295 1204 282 1200 269 1196 256 1192 243 1188 230 1184 217 1180 204 1176 191 1171 178 1167 165 "
+           id="LC82"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <polyline
+           style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;stroke-width:4.56255289;stroke-miterlimit:4;stroke-dasharray:26.28030575,26.28030575;stroke-dashoffset:0"
+           points="1657 1466 1657 1453 1657 1440 1657 1427 1656 1414 1656 1401 1655 1388 1655 1375 1654 1362 1653 1349 1652 1336 1651 1323 1650 1310 1649 1297 1648 1284 1647 1271 1645 1258 1644 1245 1642 1232 1640 1219 1638 1206 1637 1193 1634 1180 1632 1167 1630 1154 1628 1141 1625 1128 1623 1115 1620 1102 1618 1089 1615 1076 1612 1063 1609 1050 1606 1037 1603 1024 1600 1011 1596 998 1593 985 1590 972 1586 959 1582 946 1578 933 1575 920 1571 907 1566 894 1562 881 1558 868 1554 855 1549 842 1545 829 1540 816 1535 802 1530 789 1526 776 1521 763 1515 750 1510 737 1505 724 1500 711 1494 698 1489 685 1483 672 1477 659 1471 646 1465 633 1459 620 1453 607 1447 594 1441 581 1434 568 1428 555 1421 542 1414 529 1408 516 1401 503 1394 490 1387 477 1379 464 1372 451 1365 438 1357 425 1350 412 1342 399 1334 386 1327 373 1319 360 1311 347 1303 334 1294 321 1286 308 1278 295 1269 282 1261 269 1252 256 1243 243 1234 230 1225 217 1216 204 1207 191 1198 178 1189 165 "
+           id="LC87"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <polyline
+           style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:26.28030575,26.28030575;shape-rendering:crispEdges;stroke-width:4.56255289;stroke-miterlimit:4;stroke-dashoffset:0"
+           points="1657 1466 1657 1453 1657 1440 1657 1427 1657 1414 1657 1401 1656 1388 1656 1375 1656 1362 1655 1349 1655 1336 1655 1323 1654 1310 1653 1297 1653 1284 1652 1271 1652 1258 1651 1245 1650 1232 1649 1219 1648 1206 1648 1193 1647 1180 1646 1167 1645 1154 1643 1141 1642 1128 1641 1115 1640 1102 1639 1089 1637 1076 1636 1063 1635 1050 1633 1037 1632 1024 1630 1011 1629 998 1627 985 1626 972 1624 959 1622 946 1620 933 1619 920 1617 907 1615 894 1613 881 1611 868 1609 855 1607 842 1605 829 1603 816 1600 802 1598 789 1596 776 1593 763 1591 750 1589 737 1586 724 1584 711 1581 698 1578 685 1576 672 1573 659 1570 646 1568 633 1565 620 1562 607 1559 594 1556 581 1553 568 1550 555 1547 542 1544 529 1541 516 1538 503 1534 490 1531 477 1528 464 1524 451 1521 438 1517 425 1514 412 1510 399 1507 386 1503 373 1499 360 1496 347 1492 334 1488 321 1484 308 1480 295 1476 282 1472 269 1468 256 1464 243 1460 230 1456 217 1452 204 1447 191 1443 178 1439 165 "
+           id="LC92"
+           clip-path="url(#LC4_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <line
+           y1="164"
+           style="fill:#ffffff;stroke:#000000;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC103"
+           x2="1262.2"
+           y2="1467"
+           x1="1262.2"
+           clip-path="url(#LC99_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <polygon
+           style="fill:#ffffff;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges;fill-opacity:1"
+           points="786.8823,166.8 786.8823,163.2 790,165 "
+           id="LC108"
+           clip-path="url(#LC99_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <rect
+           id="LC114"
+           height="86"
+           style="opacity:0;fill:#ffffff;stroke:none;shape-rendering:crispEdges;fill-opacity:1"
+           width="118"
+           y="122"
+           x="657.29999"
+           clip-path="url(#LC111_SetClip)"
+           transform="matrix(1.6976455,0,0,1.6976455,-3275.1164,-1759.0829)" />
+        <text
+           id="LC115"
+           style="font-size:88.26420000000000243px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.69764;shape-rendering:crispEdges;fill-opacity:1;"
+           x="-2139.3918"
+           y="-1446.3169">1,5</text>
+        <rect
+           id="LC121"
+           height="6.1114831"
+           style="fill:#ffffff;stroke:none;stroke-width:1.69764;shape-rendering:crispEdges;fill-opacity:1"
+           width="1602.5774"
+           y="731.36298"
+           x="-1933.9768"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC122"
+           x2="-1933.9768"
+           y2="749.18829"
+           x1="-1933.9768"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC123"
+           x2="-1774.3976"
+           y2="749.18829"
+           x1="-1774.3976"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC124"
+           x2="-1613.1215"
+           y2="749.18829"
+           x1="-1613.1215"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC125"
+           x2="-1453.5432"
+           y2="749.18829"
+           x1="-1453.5432"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC126"
+           x2="-1292.2662"
+           y2="749.18829"
+           x1="-1292.2662"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC127"
+           x2="-1132.688"
+           y2="749.18829"
+           x1="-1132.688"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC128"
+           x2="-973.10883"
+           y2="749.18829"
+           x1="-973.10883"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC129"
+           x2="-811.8327"
+           y2="749.18829"
+           x1="-811.8327"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC130"
+           x2="-652.25433"
+           y2="749.18829"
+           x1="-652.25433"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC131"
+           x2="-490.97824"
+           y2="749.18829"
+           x1="-490.97824"
+           clip-path="url(#LC117_SetClip)" />
+        <line
+           y1="732.21185"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC132"
+           x2="-331.39911"
+           y2="749.18829"
+           x1="-331.39911"
+           clip-path="url(#LC117_SetClip)" />
+        <text
+           id="LC133"
+           style="font-size:113.48199999999999932px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.69764;shape-rendering:crispEdges;fill-opacity:1;"
+           x="-2070.7314"
+           y="863.80762">-0,5</text>
+        <text
+           id="LC135"
+           style="font-size:113.48199999999999932px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.69764;shape-rendering:crispEdges;fill-opacity:1;"
+           x="-1166.8766"
+           y="863.80762">0</text>
+        <text
+           id="LC137"
+           style="font-size:113.48199999999999932px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.69764;shape-rendering:crispEdges;fill-opacity:1;"
+           x="-433.96588"
+           y="863.80762">0,5</text>
+        <text
+           id="LC139"
+           style="font-size:147.59800000000001319px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.69764;shape-rendering:crispEdges;fill-opacity:1;"
+           x="-1621.8223"
+           y="1010.0782">Millimeters</text>
+        <rect
+           id="LC141"
+           height="2210.3345"
+           style="fill:#ffffff;stroke:none;stroke-width:1.69764;shape-rendering:crispEdges;fill-opacity:1"
+           width="6.1114831"
+           y="-1479.8198"
+           x="-1939.0693" />
+        <line
+           y1="729.66534"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC142"
+           x2="-1933.9768"
+           y2="729.66534"
+           x1="-1950.9531" />
+        <line
+           y1="435.17999"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC143"
+           x2="-1933.9768"
+           y2="435.17999"
+           x1="-1950.9531" />
+        <line
+           y1="140.69646"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC144"
+           x2="-1933.9768"
+           y2="140.69646"
+           x1="-1950.9531" />
+        <line
+           y1="-153.78909"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC145"
+           x2="-1933.9768"
+           y2="-153.78909"
+           x1="-1950.9531" />
+        <line
+           y1="-448.27386"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC146"
+           x2="-1933.9768"
+           y2="-448.27386"
+           x1="-1950.9531" />
+        <line
+           y1="-742.75879"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC147"
+           x2="-1933.9768"
+           y2="-742.75879"
+           x1="-1950.9531" />
+        <line
+           y1="-1037.2435"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC148"
+           x2="-1933.9768"
+           y2="-1037.2435"
+           x1="-1950.9531" />
+        <line
+           y1="-1331.7288"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.69764;stroke-linecap:butt;shape-rendering:crispEdges;fill-opacity:1"
+           id="LC149"
+           x2="-1933.9768"
+           y2="-1331.7288"
+           x1="-1950.9531" />
+        <text
+           id="LC150"
+           style="font-size:126.09199999999999875px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.69764;shape-rendering:crispEdges;fill-opacity:1;"
+           x="-2035.4159"
+           y="775.22577">0</text>
+        <text
+           id="LC152"
+           style="font-size:126.09199999999999875px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.69764;shape-rendering:crispEdges;fill-opacity:1;"
+           x="-2187.3665"
+           y="-696.63239">1,0</text>
+        <text
+           id="LC154"
+           style="font-size:147.59800000000001319px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:1.69764;shape-rendering:crispEdges;fill-opacity:1;"
+           transform="rotate(-90)"
+           x="284.87045"
+           y="-2387.5447">+Y</text>
+        <text
+           id="LC192"
+           style="font-size:208.19399999999998840px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;stroke-width:3.10841;shape-rendering:crispEdges;fill-opacity:1;"
+           x="-1884.3411"
+           y="1719.2897"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#ffffff;fill-opacity:1;"
+             id="tspan4977">Field Curvature</tspan></text>
+        <g
+           id="g4912"
+           transform="matrix(1.826589,0,0,1.826589,8613.5989,-1710.2594)">
+          <polygon
+             transform="matrix(1.033595,0,0,1.033595,-5356.584,1631.2357)"
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="-818,-57 -819,-58 818,-57 "
+             id="LC195" />
+          <polygon
+             transform="matrix(1.033595,0,0,1.033595,-5356.584,1631.2357)"
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="818,-57 -819,-58 819,-58 "
+             id="LC196" />
+          <polygon
+             transform="matrix(1.033595,0,0,1.033595,-5356.584,1631.2357)"
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="818,57 818,-57 819,-58 "
+             id="LC197" />
+          <polygon
+             transform="matrix(1.033595,0,0,1.033595,-5356.584,1631.2357)"
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="818,57 819,-58 819,58 "
+             id="LC198" />
+          <polygon
+             transform="matrix(1.033595,0,0,1.033595,-5356.584,1631.2357)"
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="818,57 819,58 -818,57 "
+             id="LC199" />
+          <polygon
+             transform="matrix(1.033595,0,0,1.033595,-5356.584,1631.2357)"
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="-818,57 819,58 -819,58 "
+             id="LC200" />
+          <polygon
+             transform="matrix(1.033595,0,0,1.033595,-5356.584,1631.2357)"
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="-819,58 -819,-58 -818,-57 "
+             id="LC201" />
+          <polygon
+             transform="matrix(1.033595,0,0,1.033595,-5356.584,1631.2357)"
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="-819,58 -818,-57 -818,57 "
+             id="LC202" />
+          <polyline
+             style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;shape-rendering:crispEdges"
+             points="154 2090 174 2090 "
+             id="LC209"
+             clip-path="url(#LC207_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2078 120,2075 150,2078 "
+             id="LC214"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2075 150,2075 150,2078 "
+             id="LC215"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2105 120,2102 150,2105 "
+             id="LC216"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2102 150,2102 150,2105 "
+             id="LC217"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2102 120,2078 123,2078 "
+             id="LC218"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2102 123,2078 123,2102 "
+             id="LC219"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="147,2102 147,2078 150,2078 "
+             id="LC220"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="147,2102 150,2078 150,2102 "
+             id="LC221"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="133.5,2100.5 124.5,2082.5 133.5,2091.5 "
+             id="LC222"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="124.5,2091.5 124.5,2082.5 133.5,2100.5 "
+             id="LC223"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="133.5,2100.5 133.5,2091.5 145.5,2078 "
+             id="LC224"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="145.5,2087 133.5,2100.5 145.5,2078 "
+             id="LC225"
+             clip-path="url(#LC212_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polyline
+             style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-dasharray:4, 4;shape-rendering:crispEdges"
+             points="696 2090 716 2090 "
+             id="LC230"
+             clip-path="url(#LC207_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2078 662,2075 692,2078 "
+             id="LC235"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2075 692,2075 692,2078 "
+             id="LC236"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2105 662,2102 692,2105 "
+             id="LC237"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2102 692,2102 692,2105 "
+             id="LC238"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2102 662,2078 665,2078 "
+             id="LC239"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2102 665,2078 665,2102 "
+             id="LC240"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="689,2102 689,2078 692,2078 "
+             id="LC241"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="689,2102 692,2078 692,2102 "
+             id="LC242"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="675.5,2100.5 666.5,2082.5 675.5,2091.5 "
+             id="LC243"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="666.5,2091.5 666.5,2082.5 675.5,2100.5 "
+             id="LC244"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="675.5,2100.5 675.5,2091.5 687.5,2078 "
+             id="LC245"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="687.5,2087 675.5,2100.5 687.5,2078 "
+             id="LC246"
+             clip-path="url(#LC233_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polyline
+             style="fill:none;stroke:#00ff00;stroke-width:2;stroke-linecap:butt;shape-rendering:crispEdges"
+             points="1238 2090 1258 2090 "
+             id="LC251"
+             clip-path="url(#LC207_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2078 1204,2075 1234,2078 "
+             id="LC256"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2075 1234,2075 1234,2078 "
+             id="LC257"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2105 1204,2102 1234,2105 "
+             id="LC258"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2102 1234,2102 1234,2105 "
+             id="LC259"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2102 1204,2078 1207,2078 "
+             id="LC260"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2102 1207,2078 1207,2102 "
+             id="LC261"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1231,2102 1231,2078 1234,2078 "
+             id="LC262"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1231,2102 1234,2078 1234,2102 "
+             id="LC263"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1217.5,2100.5 1208.5,2082.5 1217.5,2091.5 "
+             id="LC264"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1208.5,2091.5 1208.5,2082.5 1217.5,2100.5 "
+             id="LC265"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1217.5,2100.5 1217.5,2091.5 1229.5,2078 "
+             id="LC266"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1229.5,2087 1217.5,2100.5 1229.5,2078 "
+             id="LC267"
+             clip-path="url(#LC254_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polyline
+             style="fill:none;stroke:#00ff00;stroke-width:2;stroke-linecap:butt;stroke-dasharray:4, 4;shape-rendering:crispEdges"
+             points="154 2142 174 2142 "
+             id="LC272"
+             clip-path="url(#LC207_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2130 120,2127 150,2130 "
+             id="LC277"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2127 150,2127 150,2130 "
+             id="LC278"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2157 120,2154 150,2157 "
+             id="LC279"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2154 150,2154 150,2157 "
+             id="LC280"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2154 120,2130 123,2130 "
+             id="LC281"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="120,2154 123,2130 123,2154 "
+             id="LC282"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="147,2154 147,2130 150,2130 "
+             id="LC283"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="147,2154 150,2130 150,2154 "
+             id="LC284"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="133.5,2152.5 124.5,2134.5 133.5,2143.5 "
+             id="LC285"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="124.5,2143.5 124.5,2134.5 133.5,2152.5 "
+             id="LC286"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="133.5,2152.5 133.5,2143.5 145.5,2130 "
+             id="LC287"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="145.5,2139 133.5,2152.5 145.5,2130 "
+             id="LC288"
+             clip-path="url(#LC275_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polyline
+             style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;shape-rendering:crispEdges"
+             points="696 2142 716 2142 "
+             id="LC293"
+             clip-path="url(#LC207_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2130 662,2127 692,2130 "
+             id="LC298"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2127 692,2127 692,2130 "
+             id="LC299"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2157 662,2154 692,2157 "
+             id="LC300"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2154 692,2154 692,2157 "
+             id="LC301"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2154 662,2130 665,2130 "
+             id="LC302"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="662,2154 665,2130 665,2154 "
+             id="LC303"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="689,2154 689,2130 692,2130 "
+             id="LC304"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="689,2154 692,2130 692,2154 "
+             id="LC305"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="675.5,2152.5 666.5,2134.5 675.5,2143.5 "
+             id="LC306"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="666.5,2143.5 666.5,2134.5 675.5,2152.5 "
+             id="LC307"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="675.5,2152.5 675.5,2143.5 687.5,2130 "
+             id="LC308"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="687.5,2139 675.5,2152.5 687.5,2130 "
+             id="LC309"
+             clip-path="url(#LC296_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polyline
+             style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-dasharray:4, 4;shape-rendering:crispEdges"
+             points="1238 2142 1258 2142 "
+             id="LC314"
+             clip-path="url(#LC207_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2130 1204,2127 1234,2130 "
+             id="LC319"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2127 1234,2127 1234,2130 "
+             id="LC320"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2157 1204,2154 1234,2157 "
+             id="LC321"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2154 1234,2154 1234,2157 "
+             id="LC322"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2154 1204,2130 1207,2130 "
+             id="LC323"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1204,2154 1207,2130 1207,2154 "
+             id="LC324"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1231,2154 1231,2130 1234,2130 "
+             id="LC325"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#000000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1231,2154 1234,2130 1234,2154 "
+             id="LC326"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1217.5,2152.5 1208.5,2134.5 1217.5,2143.5 "
+             id="LC327"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1208.5,2143.5 1208.5,2134.5 1217.5,2152.5 "
+             id="LC328"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1217.5,2152.5 1217.5,2143.5 1229.5,2130 "
+             id="LC329"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <polygon
+             style="fill:#008000;fill-rule:evenodd;stroke:none;shape-rendering:crispEdges"
+             points="1229.5,2139 1217.5,2152.5 1229.5,2130 "
+             id="LC330"
+             clip-path="url(#LC317_SetClip)"
+             transform="matrix(1.033595,0,0,1.033595,-6320.9281,-555.85131)" />
+          <text
+             id="LC335"
+             style="font-size:46.49419999999999931px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;shape-rendering:crispEdges;fill-opacity:1;"
+             transform="matrix(1.033595,0,0,1.033595,-5890.8246,1604.7085)"
+             x="-238.1239"
+             y="16.79966"
+             clip-path="url(#LC337_SetClip)">0,4861-Tangential</text>
+          <text
+             id="LC339"
+             style="font-size:46.49419999999999931px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;shape-rendering:crispEdges;fill-opacity:1;"
+             transform="matrix(1.033595,0,0,1.033595,-5359.5718,1604.7085)"
+             x="-210.1093"
+             y="16.79966"
+             clip-path="url(#LC341_SetClip)">0,4861-Sagittal</text>
+          <text
+             id="LC343"
+             style="font-size:46.49419999999999931px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;shape-rendering:crispEdges;fill-opacity:1;"
+             transform="matrix(1.033595,0,0,1.033595,-4770.4074,1604.7085)"
+             x="-238.1239"
+             y="16.79966"
+             clip-path="url(#LC345_SetClip)">0,5876-Tangential</text>
+          <text
+             id="LC347"
+             style="font-size:46.49419999999999931px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;shape-rendering:crispEdges;fill-opacity:1;"
+             transform="matrix(1.033595,0,0,1.033595,-5919.7803,1658.4554)"
+             x="-210.1093"
+             y="16.79966"
+             clip-path="url(#LC349_SetClip)">0,5876-Sagittal</text>
+          <text
+             id="LC351"
+             style="font-size:46.49419999999999931px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;shape-rendering:crispEdges;fill-opacity:1;"
+             transform="matrix(1.033595,0,0,1.033595,-5330.6161,1658.4554)"
+             x="-238.1239"
+             y="16.79966"
+             clip-path="url(#LC353_SetClip)">0,6563-Tangential</text>
+          <text
+             id="LC355"
+             style="font-size:46.49419999999999931px;font-family:'Lucida Sans Typewriter';fill:#ffffff;stroke:none;shape-rendering:crispEdges;fill-opacity:1;"
+             transform="matrix(1.033595,0,0,1.033595,-4799.3636,1658.4554)"
+             x="-210.1093"
+             y="16.79966"
+             clip-path="url(#LC357_SetClip)">0,6563-Sagittal</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
